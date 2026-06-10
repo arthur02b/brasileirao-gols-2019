@@ -1,0 +1,877 @@
+partida_id,rodata_x,clube,atleta,minuto,tipo_de_gol,rodata_y,mandante,visitante,data,casa_ou_fora
+6506,1,Sao Paulo,Éverton Cardoso da Silva,41,,1,Sao Paulo,Botafogo-RJ,27/04/2019,Casa
+6506,1,Sao Paulo,Hudson,83,,1,Sao Paulo,Botafogo-RJ,27/04/2019,Casa
+6507,1,Atletico-MG,Ricardo Oliveira,53,,1,Atletico-MG,Avai,27/04/2019,Casa
+6507,1,Avai,Feliciano Brizuela,46,,1,Atletico-MG,Avai,27/04/2019,Fora
+6507,1,Atletico-MG,Fábio Santos,45+2,Penalty,1,Atletico-MG,Avai,27/04/2019,Casa
+6508,1,Chapecoense,Everaldo Stum,88,,1,Chapecoense,Internacional,27/04/2019,Casa
+6508,1,Chapecoense,Everaldo Stum,45+2,Penalty,1,Chapecoense,Internacional,27/04/2019,Casa
+6509,1,Flamengo,Bruno Henrique,67,,1,Flamengo,Cruzeiro,27/04/2019,Casa
+6509,1,Flamengo,Gabriel Barbosa,90,,1,Flamengo,Cruzeiro,27/04/2019,Casa
+6509,1,Cruzeiro,Pedro Rocha Neves,40,,1,Flamengo,Cruzeiro,27/04/2019,Fora
+6509,1,Flamengo,Bruno Henrique,41,,1,Flamengo,Cruzeiro,27/04/2019,Casa
+6510,1,Santos,Eduardo Sasha,6,,1,Gremio,Santos,28/04/2019,Fora
+6510,1,Santos,Felipe Jonatan,35,,1,Gremio,Santos,28/04/2019,Fora
+6510,1,Gremio,Everton Sousa Soares,90+3,,1,Gremio,Santos,28/04/2019,Casa
+6513,1,Ceara,Ricardo Bueno,89,,1,Ceara,CSA,28/04/2019,Casa
+6513,1,Ceara,Leandro Carvalho,34,,1,Ceara,CSA,28/04/2019,Casa
+6513,1,Ceara,João Lucas Cardoso,81,,1,Ceara,CSA,28/04/2019,Casa
+6513,1,Ceara,Ricardo Bueno,21,,1,Ceara,CSA,28/04/2019,Casa
+6511,1,Bahia,José Rogério de Oliveira Melo,84,,1,Bahia,Corinthians,28/04/2019,Casa
+6511,1,Corinthians,Pedrinho,45+2,,1,Bahia,Corinthians,28/04/2019,Fora
+6511,1,Bahia,Arthur Caike do Nascimento Cruz,45+4,,1,Bahia,Corinthians,28/04/2019,Casa
+6511,1,Corinthians,Clayson Henrique da Silva Vieira,90+5,,1,Bahia,Corinthians,28/04/2019,Fora
+6511,1,Bahia,Artur Victor Guimarães,76,,1,Bahia,Corinthians,28/04/2019,Casa
+6512,1,Athletico-PR,Marco Ruben,45,,1,Athletico-PR,Vasco,28/04/2019,Casa
+6512,1,Athletico-PR,Werley Ananias da Silva,66,Gol Contra,1,Athletico-PR,Vasco,28/04/2019,Casa
+6512,1,Athletico-PR,Nikão,86,,1,Athletico-PR,Vasco,28/04/2019,Casa
+6512,1,Vasco,Bruno César,89,,1,Athletico-PR,Vasco,28/04/2019,Fora
+6512,1,Athletico-PR,Bruno Guimarães,3,,1,Athletico-PR,Vasco,28/04/2019,Casa
+6514,1,Palmeiras,José Rafael Vivian,71,,1,Palmeiras,Fortaleza,28/04/2019,Casa
+6514,1,Palmeiras,Marcos Rocha,59,,1,Palmeiras,Fortaleza,28/04/2019,Casa
+6514,1,Palmeiras,Bruno Henrique Corsini,90+1,,1,Palmeiras,Fortaleza,28/04/2019,Casa
+6514,1,Palmeiras,José Rafael Vivian,17,,1,Palmeiras,Fortaleza,28/04/2019,Casa
+6515,1,Goias,Rafael Vaz,89,,1,Fluminense,Goias,28/04/2019,Fora
+6517,2,Palmeiras,Raphael Cavalcante Veiga,9,,2,CSA,Palmeiras,01/05/2019,Fora
+6517,2,CSA,Matheus Sávio,63,,2,CSA,Palmeiras,01/05/2019,Casa
+6516,2,Internacional,Paolo Guerrero,5,,2,Internacional,Flamengo,01/05/2019,Casa
+6516,2,Internacional,Martín Sarrafiore,77,,2,Internacional,Flamengo,01/05/2019,Casa
+6516,2,Flamengo,Giorgian De Arrascaeta,60,,2,Internacional,Flamengo,01/05/2019,Fora
+6518,2,Corinthians,Carlos Augusto Zopolato Neves,55,,2,Corinthians,Chapecoense,01/05/2019,Casa
+6519,2,Cruzeiro,Thiago Neves,50,,2,Cruzeiro,Ceara,01/05/2019,Casa
+6520,2,Avai,Michel Ferreira dos Santos,85,Gol Contra,2,Avai,Gremio,01/05/2019,Casa
+6520,2,Gremio,Rômulo Borges Monteiro,45,,2,Avai,Gremio,01/05/2019,Fora
+6521,2,Goias,Leandro Barcia Montero,45+2,,2,Goias,Sao Paulo,01/05/2019,Casa
+6521,2,Sao Paulo,Alexandre Pato,31,,2,Goias,Sao Paulo,01/05/2019,Fora
+6521,2,Sao Paulo,Jonas Toró,36,,2,Goias,Sao Paulo,01/05/2019,Fora
+6522,2,Atletico-MG,Elias Mendes Trindade,59,,2,Vasco,Atletico-MG,01/05/2019,Fora
+6522,2,Atletico-MG,Yimmi Chará,90,,2,Vasco,Atletico-MG,01/05/2019,Fora
+6522,2,Vasco,Maxi López,66,,2,Vasco,Atletico-MG,01/05/2019,Casa
+6523,2,Athletico-PR,Léo Pereira,22,,2,Fortaleza,Athletico-PR,01/05/2019,Fora
+6523,2,Fortaleza,Edinho,2,,2,Fortaleza,Athletico-PR,01/05/2019,Casa
+6523,2,Fortaleza,Wellington Paulista,76,,2,Fortaleza,Athletico-PR,01/05/2019,Casa
+6524,2,Santos,Eduardo Sasha,65,,2,Santos,Fluminense,02/05/2019,Casa
+6524,2,Santos,Carlos Andrés Sánchez,73,,2,Santos,Fluminense,02/05/2019,Casa
+6524,2,Fluminense,Pedro,85,,2,Santos,Fluminense,02/05/2019,Fora
+6525,2,Botafogo-RJ,Erik Nascimento de Lima,30,,2,Botafogo-RJ,Bahia,02/05/2019,Casa
+6525,2,Bahia,Ernando Rodrigues Lopes,83,,2,Botafogo-RJ,Bahia,02/05/2019,Fora
+6525,2,Botafogo-RJ,João Paulo,36,,2,Botafogo-RJ,Bahia,02/05/2019,Casa
+6525,2,Botafogo-RJ,Cícero Santos,45+3,,2,Botafogo-RJ,Bahia,02/05/2019,Casa
+6525,2,Bahia,Arthur Caike do Nascimento Cruz,6,,2,Botafogo-RJ,Bahia,02/05/2019,Fora
+6527,3,Palmeiras,Deyverson,14,,3,Palmeiras,Internacional,04/05/2019,Casa
+6526,3,Corinthians,Mateus Vital,17,,3,Vasco,Corinthians,04/05/2019,Fora
+6526,3,Vasco,Maxi López,39,Penalty,3,Vasco,Corinthians,04/05/2019,Casa
+6528,3,Atletico-MG,Nathan Allan de Souza,26,,3,Ceara,Atletico-MG,04/05/2019,Fora
+6528,3,Atletico-MG,Jair Rodrigues Júnior,90+3,,3,Ceara,Atletico-MG,04/05/2019,Fora
+6528,3,Ceara,Ricardo Bueno,24,,3,Ceara,Atletico-MG,04/05/2019,Casa
+6529,3,Chapecoense,Everaldo Stum,89,,3,Chapecoense,Athletico-PR,05/05/2019,Casa
+6529,3,Athletico-PR,Rony,76,,3,Chapecoense,Athletico-PR,05/05/2019,Fora
+6531,3,Botafogo-RJ,Alex Paulo Menezes Santana,70,,3,Botafogo-RJ,Fortaleza,05/05/2019,Casa
+6533,3,Cruzeiro,Rodrigo Eduardo Costa Marinho,81,,3,Cruzeiro,Goias,05/05/2019,Casa
+6533,3,Goias,Michael Richard Delgado de Oliveira,57,,3,Cruzeiro,Goias,05/05/2019,Fora
+6533,3,Cruzeiro,Dedé,49,,3,Cruzeiro,Goias,05/05/2019,Casa
+6530,3,Sao Paulo,Danilo Neves,83,,3,Sao Paulo,Flamengo,05/05/2019,Casa
+6530,3,Flamengo,Orlando Berrío,8,,3,Sao Paulo,Flamengo,05/05/2019,Fora
+6534,3,Fluminense,Pedro,72,Penalty,3,Gremio,Fluminense,05/05/2019,Fora
+6534,3,Gremio,Jean Pyerre,22,,3,Gremio,Fluminense,05/05/2019,Casa
+6534,3,Fluminense,Luciano da Rocha Neves,41,,3,Gremio,Fluminense,05/05/2019,Fora
+6534,3,Gremio,Walter Kannemann,84,,3,Gremio,Fluminense,05/05/2019,Casa
+6534,3,Fluminense,Matheus Ferraz Pereira,55,,3,Gremio,Fluminense,05/05/2019,Fora
+6534,3,Gremio,André Felipe Ribeiro de Souza,6,,3,Gremio,Fluminense,05/05/2019,Casa
+6534,3,Fluminense,Yony González,39,,3,Gremio,Fluminense,05/05/2019,Fora
+6534,3,Gremio,Everton Sousa Soares,13,,3,Gremio,Fluminense,05/05/2019,Casa
+6534,3,Fluminense,Yony González,90+2,,3,Gremio,Fluminense,05/05/2019,Fora
+6535,3,Bahia,Artur Victor Guimarães,40,,3,Bahia,Avai,05/05/2019,Casa
+6536,4,Botafogo-RJ,Alex Paulo Menezes Santana,72,,4,Fluminense,Botafogo-RJ,11/05/2019,Fora
+6538,4,Goias,Jonathan Marlone,21,,4,Goias,Ceara,11/05/2019,Casa
+6538,4,Goias,Leandro Barcia Montero,90+1,,4,Goias,Ceara,11/05/2019,Casa
+6538,4,Ceara,Thiago Galhardo,77,,4,Goias,Ceara,11/05/2019,Fora
+6541,4,Palmeiras,Bruno Henrique Corsini,45,,4,Atletico-MG,Palmeiras,12/05/2019,Fora
+6541,4,Palmeiras,Bruno Henrique Corsini,52,,4,Atletico-MG,Palmeiras,12/05/2019,Fora
+6539,4,Flamengo,Lincoln Corrêa dos Santos,51,,4,Flamengo,Chapecoense,12/05/2019,Casa
+6539,4,Chapecoense,Gum,90+2,,4,Flamengo,Chapecoense,12/05/2019,Fora
+6539,4,Flamengo,Victor Vinícius Coelho Santos,8,,4,Flamengo,Chapecoense,12/05/2019,Casa
+6542,4,Internacional,Paolo Guerrero,56,,4,Internacional,Cruzeiro,12/05/2019,Casa
+6542,4,Internacional,Rodrigo Moledo,83,,4,Internacional,Cruzeiro,12/05/2019,Casa
+6542,4,Cruzeiro,Dedé,36,,4,Internacional,Cruzeiro,12/05/2019,Fora
+6542,4,Internacional,Gustavo Nonato Santana,32,,4,Internacional,Cruzeiro,12/05/2019,Casa
+6540,4,Santos,Yeferson Soteldo,73,,4,Santos,Vasco,12/05/2019,Casa
+6540,4,Santos,Diego Pituca,19,,4,Santos,Vasco,12/05/2019,Casa
+6540,4,Santos,Rodrygo Silva de Goes,33,,4,Santos,Vasco,12/05/2019,Casa
+6544,4,Athletico-PR,Rony,11,,4,Athletico-PR,Bahia,12/05/2019,Casa
+6545,4,Sao Paulo,Hernanes,77,,4,Fortaleza,Sao Paulo,12/05/2019,Fora
+6546,5,Fluminense,João Pedro,90+5,,5,Fluminense,Cruzeiro,18/05/2019,Casa
+6546,5,Fluminense,Nino,44,,5,Fluminense,Cruzeiro,18/05/2019,Casa
+6546,5,Cruzeiro,Róbson Michael Signorini,49,,5,Fluminense,Cruzeiro,18/05/2019,Fora
+6546,5,Fluminense,Luciano da Rocha Neves,46,,5,Fluminense,Cruzeiro,18/05/2019,Casa
+6546,5,Fluminense,João Pedro,81,,5,Fluminense,Cruzeiro,18/05/2019,Casa
+6548,5,Flamengo,Bruno Henrique,31,,5,Atletico-MG,Flamengo,18/05/2019,Fora
+6548,5,Atletico-MG,Juan Cazares,28,,5,Atletico-MG,Flamengo,18/05/2019,Casa
+6548,5,Atletico-MG,Yimmi Chará,47,,5,Atletico-MG,Flamengo,18/05/2019,Casa
+6547,5,Palmeiras,Raphael Cavalcante Veiga,52,,5,Palmeiras,Santos,18/05/2019,Casa
+6547,5,Palmeiras,Hyoran,88,,5,Palmeiras,Santos,18/05/2019,Casa
+6547,5,Palmeiras,Gustavo Gómez,6,,5,Palmeiras,Santos,18/05/2019,Casa
+6547,5,Palmeiras,Deyverson,19,,5,Palmeiras,Santos,18/05/2019,Casa
+6551,5,Corinthians,Pedrinho,87,,5,Athletico-PR,Corinthians,19/05/2019,Fora
+6551,5,Corinthians,Vágner Love,14,,5,Athletico-PR,Corinthians,19/05/2019,Fora
+6553,5,Fortaleza,Marcinho,63,,5,Chapecoense,Fortaleza,19/05/2019,Fora
+6553,5,Fortaleza,Osvaldo Filho,65,,5,Chapecoense,Fortaleza,19/05/2019,Fora
+6553,5,Chapecoense,Rildo de Andrade Felicissimo,13,,5,Chapecoense,Fortaleza,19/05/2019,Casa
+6553,5,Fortaleza,Marcinho,39,,5,Chapecoense,Fortaleza,19/05/2019,Fora
+6550,5,Internacional,Gustavo Nonato Santana,37,,5,Internacional,CSA,19/05/2019,Casa
+6550,5,Internacional,Edenílson Andrade dos Santos,65,,5,Internacional,CSA,19/05/2019,Casa
+6552,5,Goias,Kayke Moreno,87,,5,Goias,Botafogo-RJ,19/05/2019,Casa
+6554,5,Vasco,Ricardo Graça,82,,5,Vasco,Avai,19/05/2019,Casa
+6554,5,Avai,Daniel Amorim,90+5,,5,Vasco,Avai,19/05/2019,Fora
+6555,5,Ceara,Ricardo Dias Acosta,11,,5,Ceara,Gremio,19/05/2019,Casa
+6555,5,Gremio,Everton Sousa Soares,31,,5,Ceara,Gremio,19/05/2019,Fora
+6555,5,Ceara,Michel Ferreira dos Santos,23,Gol Contra,5,Ceara,Gremio,19/05/2019,Casa
+6556,6,Palmeiras,Gustavo Gómez,62,Penalty,6,Botafogo-RJ,Palmeiras,25/05/2019,Fora
+6557,6,Gremio,Felipe Vizeu,47,,6,Gremio,Atletico-MG,25/05/2019,Casa
+6558,6,Flamengo,Rodrigo Caio,90+6,,6,Flamengo,Athletico-PR,26/05/2019,Casa
+6558,6,Athletico-PR,Marcelo Cirino da Silva,64,,6,Flamengo,Athletico-PR,26/05/2019,Fora
+6558,6,Flamengo,Gabriel Barbosa,32,Penalty,6,Flamengo,Athletico-PR,26/05/2019,Casa
+6558,6,Athletico-PR,Marcelo Cirino da Silva,72,Penalty,6,Flamengo,Athletico-PR,26/05/2019,Fora
+6558,6,Flamengo,Bruno Henrique,90,,6,Flamengo,Athletico-PR,26/05/2019,Casa
+6560,6,Vasco,Yago Pikachu,71,Penalty,6,Fortaleza,Vasco,26/05/2019,Fora
+6560,6,Fortaleza,Romarinho,89,,6,Fortaleza,Vasco,26/05/2019,Casa
+6561,6,Chapecoense,Rildo de Andrade Felicissimo,52,,6,Cruzeiro,Chapecoense,26/05/2019,Fora
+6561,6,Chapecoense,Diego Torres,85,,6,Cruzeiro,Chapecoense,26/05/2019,Fora
+6561,6,Cruzeiro,Thiago Neves,57,,6,Cruzeiro,Chapecoense,26/05/2019,Casa
+6562,6,Fluminense,João Pedro,80,,6,Bahia,Fluminense,26/05/2019,Fora
+6562,6,Bahia,Gilberto Oliveira Souza Junior,69,Penalty,6,Bahia,Fluminense,26/05/2019,Casa
+6562,6,Fluminense,Pedro,19,Penalty,6,Bahia,Fluminense,26/05/2019,Fora
+6562,6,Bahia,Artur Victor Guimarães,16,,6,Bahia,Fluminense,26/05/2019,Casa
+6562,6,Bahia,Gilberto Oliveira Souza Junior,30,,6,Bahia,Fluminense,26/05/2019,Casa
+6563,6,Corinthians,Pedrinho,7,,6,Corinthians,Sao Paulo,26/05/2019,Casa
+6565,6,Ceara,Thiago Galhardo,73,,6,Avai,Ceara,27/05/2019,Fora
+6565,6,Ceara,Thiago Galhardo,87,,6,Avai,Ceara,27/05/2019,Fora
+6565,6,Avai,Brenner Marlos Varanda de Oliveira,44,,6,Avai,Ceara,27/05/2019,Casa
+6564,6,CSA,Francinilson Santos Meirelles,62,,6,CSA,Goias,27/05/2019,Casa
+6566,7,Flamengo,Gabriel Barbosa,40,,7,Flamengo,Fortaleza,01/06/2019,Casa
+6566,7,Flamengo,Gabriel Barbosa,68,,7,Flamengo,Fortaleza,01/06/2019,Casa
+6567,7,Bahia,José Fernando Viana de Santana,55,Penalty,7,Bahia,Gremio,01/06/2019,Casa
+6568,7,Botafogo-RJ,Diego Souza,58,,7,Botafogo-RJ,Vasco,02/06/2019,Casa
+6571,7,Sao Paulo,Alexandre Pato,15,,7,Sao Paulo,Cruzeiro,02/06/2019,Casa
+6571,7,Cruzeiro,Thiago Neves,68,,7,Sao Paulo,Cruzeiro,02/06/2019,Fora
+6569,7,Santos,Eduardo Sasha,52,,7,Ceara,Santos,02/06/2019,Fora
+6570,7,Athletico-PR,Marcelo Cirino da Silva,84,,7,Athletico-PR,Fluminense,02/06/2019,Casa
+6570,7,Athletico-PR,Lucho González,21,,7,Athletico-PR,Fluminense,02/06/2019,Casa
+6570,7,Athletico-PR,Rony,38,,7,Athletico-PR,Fluminense,02/06/2019,Casa
+6572,7,Atletico-MG,Fábio Santos,20,Penalty,7,Atletico-MG,CSA,02/06/2019,Casa
+6572,7,Atletico-MG,Yimmi Chará,50,,7,Atletico-MG,CSA,02/06/2019,Casa
+6572,7,Atletico-MG,Adílson Warken,76,,7,Atletico-MG,CSA,02/06/2019,Casa
+6572,7,Atletico-MG,Juan Cazares,23,,7,Atletico-MG,CSA,02/06/2019,Casa
+6573,7,Chapecoense,Everaldo Stum,37,Penalty,7,Chapecoense,Palmeiras,02/06/2019,Casa
+6573,7,Palmeiras,Eduardo Pereira Rodrigues,32,,7,Chapecoense,Palmeiras,02/06/2019,Fora
+6573,7,Palmeiras,Marcos Rocha,45,,7,Chapecoense,Palmeiras,02/06/2019,Fora
+6574,7,Internacional,Paolo Guerrero,62,,7,Internacional,Avai,02/06/2019,Casa
+6574,7,Internacional,Edenílson Andrade dos Santos,77,,7,Internacional,Avai,02/06/2019,Casa
+6576,8,Vasco,Tiago Reis,45+3,,8,Vasco,Internacional,07/06/2019,Casa
+6576,8,Internacional,Emerson Santos,56,,8,Vasco,Internacional,07/06/2019,Fora
+6576,8,Vasco,Andrey,44,,8,Vasco,Internacional,07/06/2019,Casa
+6577,8,Palmeiras,Raphael Cavalcante Veiga,80,Penalty,8,Palmeiras,Athletico-PR,08/06/2019,Casa
+6578,8,Gremio,Pepê,90,,8,Gremio,Fortaleza,08/06/2019,Casa
+6584,8,Atletico-MG,Alerrandro Barra Mansa Realino de Souza,71,,8,Santos,Atletico-MG,09/06/2019,Fora
+6584,8,Santos,Jean Mota Oliveira de Souza,45+5,Penalty,8,Santos,Atletico-MG,09/06/2019,Casa
+6584,8,Santos,Eduardo Sasha,39,,8,Santos,Atletico-MG,09/06/2019,Casa
+6584,8,Santos,Carlos Andrés Sánchez,81,,8,Santos,Atletico-MG,09/06/2019,Casa
+6582,8,Botafogo-RJ,Cícero Santos,83,,8,CSA,Botafogo-RJ,09/06/2019,Fora
+6582,8,Botafogo-RJ,Alex Paulo Menezes Santana,90+4,,8,CSA,Botafogo-RJ,09/06/2019,Fora
+6582,8,CSA,Carlos Andrade Souza,62,,8,CSA,Botafogo-RJ,09/06/2019,Casa
+6585,8,Goias,Jefferson,78,,8,Goias,Chapecoense,10/06/2019,Casa
+6585,8,Goias,Kayke Moreno,37,Penalty,8,Goias,Chapecoense,10/06/2019,Casa
+6585,8,Chapecoense,Rafael Pereira dos Santos,45,,8,Goias,Chapecoense,10/06/2019,Fora
+6585,8,Goias,Kayke Moreno,90+2,Penalty,8,Goias,Chapecoense,10/06/2019,Casa
+6586,9,Gremio,Jean Pyerre,81,,9,Botafogo-RJ,Gremio,12/06/2019,Fora
+6587,9,Fortaleza,André Luis,3,,9,Fortaleza,Cruzeiro,12/06/2019,Casa
+6587,9,Fortaleza,André Luis,45+2,,9,Fortaleza,Cruzeiro,12/06/2019,Casa
+6587,9,Cruzeiro,Luiz Ricardo Alves,11,,9,Fortaleza,Cruzeiro,12/06/2019,Fora
+6588,9,Internacional,Rafael Sóbis,61,,9,Internacional,Bahia,12/06/2019,Casa
+6588,9,Internacional,Andrés D'Alessandro,81,,9,Internacional,Bahia,12/06/2019,Casa
+6588,9,Bahia,José Fernando Viana de Santana,78,,9,Internacional,Bahia,12/06/2019,Fora
+6588,9,Internacional,Rodrigo Lindoso,18,,9,Internacional,Bahia,12/06/2019,Casa
+6589,9,Flamengo,Gabriel Barbosa,77,,9,CSA,Flamengo,12/06/2019,Fora
+6589,9,Flamengo,Victor Vinícius Coelho Santos,65,,9,CSA,Flamengo,12/06/2019,Fora
+6590,9,Santos,Eduardo Sasha,59,,9,Santos,Corinthians,12/06/2019,Casa
+6595,9,Athletico-PR,Rafael Vaz,90+2,Gol Contra,9,Goias,Athletico-PR,13/06/2019,Fora
+6595,9,Goias,Kayke Moreno,6,,9,Goias,Athletico-PR,13/06/2019,Casa
+6595,9,Goias,Leandro Barcia Montero,32,,9,Goias,Athletico-PR,13/06/2019,Casa
+6591,9,Vasco,Danilo Barcelos,80,,9,Vasco,Ceara,13/06/2019,Casa
+6592,9,Chapecoense,Everaldo Stum,3,,9,Chapecoense,Fluminense,13/06/2019,Casa
+6592,9,Fluminense,Paulo Henrique Ganso,59,Penalty,9,Chapecoense,Fluminense,13/06/2019,Fora
+6593,9,Palmeiras,Deyverson,32,,9,Palmeiras,Avai,13/06/2019,Casa
+6593,9,Palmeiras,Bruno Henrique Corsini,66,,9,Palmeiras,Avai,13/06/2019,Casa
+6594,9,Atletico-MG,Alerrandro Barra Mansa Realino de Souza,44,,9,Atletico-MG,Sao Paulo,13/06/2019,Casa
+6594,9,Sao Paulo,Alexandre Pato,73,,9,Atletico-MG,Sao Paulo,13/06/2019,Fora
+6597,10,Fortaleza,Wellington Paulista,43,,10,Fortaleza,Avai,13/07/2019,Casa
+6597,10,Fortaleza,Wellington Paulista,67,,10,Fortaleza,Avai,13/07/2019,Casa
+6596,10,Vasco,Yago Pikachu,15,Penalty,10,Gremio,Vasco,13/07/2019,Fora
+6596,10,Gremio,Pepê,61,,10,Gremio,Vasco,13/07/2019,Casa
+6596,10,Gremio,Pepê,86,,10,Gremio,Vasco,13/07/2019,Casa
+6598,10,Santos,Carlos Andrés Sánchez,87,,10,Bahia,Santos,13/07/2019,Fora
+6599,10,Palmeiras,Eduardo Pereira Rodrigues,71,,10,Sao Paulo,Palmeiras,13/07/2019,Fora
+6599,10,Sao Paulo,Pablo Felipe Teixeira,10,,10,Sao Paulo,Palmeiras,13/07/2019,Casa
+6600,10,Flamengo,Bruno Henrique,44,,10,Flamengo,Goias,14/07/2019,Casa
+6600,10,Flamengo,Giorgian De Arrascaeta,6,,10,Flamengo,Goias,14/07/2019,Casa
+6600,10,Flamengo,Gabriel Barbosa,56,,10,Flamengo,Goias,14/07/2019,Casa
+6600,10,Flamengo,Giorgian De Arrascaeta,45+1,,10,Flamengo,Goias,14/07/2019,Casa
+6600,10,Flamengo,Gabriel Barbosa,81,,10,Flamengo,Goias,14/07/2019,Casa
+6600,10,Flamengo,Giorgian De Arrascaeta,45+5,,10,Flamengo,Goias,14/07/2019,Casa
+6600,10,Goias,Kayke Moreno,12,,10,Flamengo,Goias,14/07/2019,Fora
+6602,10,Athletico-PR,Vitor Hugo Naum dos Santos,89,,10,Athletico-PR,Internacional,14/07/2019,Casa
+6601,10,Corinthians,Vágner Love,78,,10,Corinthians,CSA,14/07/2019,Casa
+6604,10,Atletico-MG,Vinícius,90+9,,10,Chapecoense,Atletico-MG,14/07/2019,Fora
+6604,10,Chapecoense,Everaldo Stum,1,,10,Chapecoense,Atletico-MG,14/07/2019,Casa
+6604,10,Atletico-MG,Iago Maidana,80,,10,Chapecoense,Atletico-MG,14/07/2019,Fora
+6605,10,Fluminense,Pedro,41,,10,Fluminense,Ceara,15/07/2019,Casa
+6605,10,Ceara,Tiago dos Santos Alves,45+4,,10,Fluminense,Ceara,15/07/2019,Fora
+6606,11,Vasco,Bruno César,76,,11,Vasco,Fluminense,20/07/2019,Casa
+6606,11,Fluminense,Pedro,45+2,,11,Vasco,Fluminense,20/07/2019,Fora
+6606,11,Vasco,Leandro Castán,67,,11,Vasco,Fluminense,20/07/2019,Casa
+6609,11,Athletico-PR,Madson,41,,11,CSA,Athletico-PR,20/07/2019,Fora
+6609,11,Athletico-PR,Thonny Anderson,60,,11,CSA,Athletico-PR,20/07/2019,Fora
+6609,11,Athletico-PR,Léo Cittadini,86,,11,CSA,Athletico-PR,20/07/2019,Fora
+6609,11,Athletico-PR,Braian Romero,90+3,,11,CSA,Athletico-PR,20/07/2019,Fora
+6610,11,Gremio,Luan Guilherme de Jesus Vieira,71,,11,Internacional,Gremio,20/07/2019,Fora
+6610,11,Internacional,Paulo Miranda,22,Gol Contra,11,Internacional,Gremio,20/07/2019,Casa
+6608,11,Ceara,Mateus Gonçalves Martins,32,,11,Ceara,Palmeiras,20/07/2019,Casa
+6608,11,Ceara,Leandro Carvalho,72,,11,Ceara,Palmeiras,20/07/2019,Casa
+6611,11,Santos,Mário Sérgio Santos Costa,75,,11,Botafogo-RJ,Santos,21/07/2019,Fora
+6613,11,Flamengo,Gabriel Barbosa,85,,11,Corinthians,Flamengo,21/07/2019,Fora
+6613,11,Corinthians,Clayson Henrique da Silva Vieira,62,Penalty,11,Corinthians,Flamengo,21/07/2019,Casa
+6612,11,Atletico-MG,Juan Cazares,14,Penalty,11,Atletico-MG,Fortaleza,21/07/2019,Casa
+6612,11,Atletico-MG,Paulo Roberto Valoura Junior,7,Gol Contra,11,Atletico-MG,Fortaleza,21/07/2019,Casa
+6612,11,Fortaleza,Carlos Emiliano Pereira,65,,11,Atletico-MG,Fortaleza,21/07/2019,Fora
+6612,11,Fortaleza,Paulo Roberto Valoura Junior,72,Penalty,11,Atletico-MG,Fortaleza,21/07/2019,Fora
+6615,11,Sao Paulo,Antony Matheus dos Santos,49,,11,Sao Paulo,Chapecoense,22/07/2019,Casa
+6615,11,Sao Paulo,Jonas Toró,53,,11,Sao Paulo,Chapecoense,22/07/2019,Casa
+6615,11,Sao Paulo,Raniel,56,,11,Sao Paulo,Chapecoense,22/07/2019,Casa
+6615,11,Sao Paulo,Vitor Bueno,90+1,,11,Sao Paulo,Chapecoense,22/07/2019,Casa
+6617,12,Athletico-PR,Bruno Guimarães,77,,12,Cruzeiro,Athletico-PR,27/07/2019,Fora
+6617,12,Athletico-PR,Jonathan Cícero Moreira,30,Penalty,12,Cruzeiro,Athletico-PR,27/07/2019,Fora
+6616,12,Vasco,Marrony,3,,12,Palmeiras,Vasco,27/07/2019,Fora
+6616,12,Palmeiras,Gustavo Scarpa,15,Penalty,12,Palmeiras,Vasco,27/07/2019,Casa
+6619,12,Internacional,Martín Sarrafiore,39,,12,Internacional,Ceara,27/07/2019,Casa
+6618,12,Fluminense,Yony González,36,,12,Fluminense,Sao Paulo,27/07/2019,Casa
+6618,12,Sao Paulo,Reinaldo Manoel da Silva,90+7,Penalty,12,Fluminense,Sao Paulo,27/07/2019,Fora
+6618,12,Sao Paulo,Reinaldo Manoel da Silva,20,,12,Fluminense,Sao Paulo,27/07/2019,Fora
+6621,12,Botafogo-RJ,Cícero Santos,14,,12,Flamengo,Botafogo-RJ,28/07/2019,Fora
+6621,12,Flamengo,Gerson Santos da Silva,35,,12,Flamengo,Botafogo-RJ,28/07/2019,Casa
+6621,12,Botafogo-RJ,Diego Souza,67,,12,Flamengo,Botafogo-RJ,28/07/2019,Fora
+6621,12,Flamengo,Gabriel Barbosa,54,,12,Flamengo,Botafogo-RJ,28/07/2019,Casa
+6621,12,Flamengo,Bruno Henrique,74,,12,Flamengo,Botafogo-RJ,28/07/2019,Casa
+6622,12,Santos,Felipe Jonatan,78,,12,Santos,Avai,28/07/2019,Casa
+6622,12,Avai,João Paulo,28,,12,Santos,Avai,28/07/2019,Fora
+6622,12,Santos,Derlis González,9,,12,Santos,Avai,28/07/2019,Casa
+6622,12,Santos,Carlos Andrés Sánchez,33,,12,Santos,Avai,28/07/2019,Casa
+6624,12,Corinthians,Danilo Avelar,81,,12,Fortaleza,Corinthians,28/07/2019,Fora
+6624,12,Corinthians,Mauro Boselli,67,,12,Fortaleza,Corinthians,28/07/2019,Fora
+6624,12,Fortaleza,Manoel Messias Silva Carvalho,40,Gol Contra,12,Fortaleza,Corinthians,28/07/2019,Casa
+6624,12,Corinthians,Pedrinho,71,,12,Fortaleza,Corinthians,28/07/2019,Fora
+6627,13,Fluminense,Natanael Batista Pimenta,68,Gol Contra,13,Fluminense,Internacional,03/08/2019,Casa
+6627,13,Internacional,Edenílson Andrade dos Santos,90+2,,13,Fluminense,Internacional,03/08/2019,Fora
+6627,13,Fluminense,Yony González,58,,13,Fluminense,Internacional,03/08/2019,Casa
+6626,13,Ceara,Thiago Galhardo,15,,13,Ceara,Fortaleza,03/08/2019,Casa
+6626,13,Ceara,Wanderson Felipe Cardoso dos Santos,18,,13,Ceara,Fortaleza,03/08/2019,Casa
+6626,13,Fortaleza,Paulo Roberto Valoura Junior,45+2,Penalty,13,Ceara,Fortaleza,03/08/2019,Fora
+6628,13,Santos,Eduardo Sasha,52,,13,Santos,Goias,04/08/2019,Casa
+6628,13,Santos,Carlos Andrés Sánchez,9,,13,Santos,Goias,04/08/2019,Casa
+6628,13,Santos,Yeferson Soteldo,68,,13,Santos,Goias,04/08/2019,Casa
+6628,13,Santos,Lucas Veríssimo,15,,13,Santos,Goias,04/08/2019,Casa
+6628,13,Santos,Yeferson Soteldo,81,,13,Santos,Goias,04/08/2019,Casa
+6628,13,Santos,Gustavo Henrique Vernes,37,,13,Santos,Goias,04/08/2019,Casa
+6628,13,Goias,Kayke Moreno,90+1,,13,Santos,Goias,04/08/2019,Fora
+6629,13,Botafogo-RJ,Alex Paulo Menezes Santana,19,,13,Avai,Botafogo-RJ,04/08/2019,Fora
+6629,13,Botafogo-RJ,Marcelo da Conceição Benevenuto Malaquias,50,,13,Avai,Botafogo-RJ,04/08/2019,Fora
+6630,13,Bahia,Gilberto Oliveira Souza Junior,45+6,,13,Bahia,Flamengo,04/08/2019,Casa
+6630,13,Bahia,Gilberto Oliveira Souza Junior,20,,13,Bahia,Flamengo,04/08/2019,Casa
+6630,13,Bahia,Gilberto Oliveira Souza Junior,31,,13,Bahia,Flamengo,04/08/2019,Casa
+6631,13,Corinthians,Manoel Messias Silva Carvalho,13,,13,Corinthians,Palmeiras,04/08/2019,Casa
+6631,13,Palmeiras,Felipe Melo,48,,13,Corinthians,Palmeiras,04/08/2019,Fora
+6633,13,Atletico-MG,Nathan Allan de Souza,90+2,,13,Atletico-MG,Cruzeiro,04/08/2019,Casa
+6633,13,Atletico-MG,Vinícius,45+1,,13,Atletico-MG,Cruzeiro,04/08/2019,Casa
+6634,13,Chapecoense,Everaldo Stum,12,,13,Gremio,Chapecoense,05/08/2019,Fora
+6634,13,Gremio,Pedro Geromel,9,,13,Gremio,Chapecoense,05/08/2019,Casa
+6634,13,Chapecoense,Gustavo Campanharo,34,,13,Gremio,Chapecoense,05/08/2019,Fora
+6634,13,Gremio,Everton Sousa Soares,26,,13,Gremio,Chapecoense,05/08/2019,Casa
+6634,13,Chapecoense,Arthur Gomes,60,,13,Gremio,Chapecoense,05/08/2019,Fora
+6634,13,Gremio,Diego Tardelli,80,,13,Gremio,Chapecoense,05/08/2019,Casa
+6575,7,Corinthians,Mauro Boselli,87,Penalty,7,Corinthians,Goias,07/08/2019,Casa
+6575,7,Corinthians,Júnior Urso,25,,7,Corinthians,Goias,07/08/2019,Casa
+6636,14,Ceara,Thiago Galhardo,45+6,,14,Ceara,Chapecoense,10/08/2019,Casa
+6636,14,Ceara,Thiago Galhardo,61,Penalty,14,Ceara,Chapecoense,10/08/2019,Casa
+6636,14,Ceara,Thiago Galhardo,90,,14,Ceara,Chapecoense,10/08/2019,Casa
+6636,14,Ceara,Wanderson Felipe Cardoso dos Santos,57,,14,Ceara,Chapecoense,10/08/2019,Casa
+6636,14,Chapecoense,Renato Kayzer,89,,14,Ceara,Chapecoense,10/08/2019,Fora
+6637,14,Sao Paulo,Alexandre Pato,49,,14,Sao Paulo,Santos,10/08/2019,Casa
+6637,14,Santos,Raniel,86,Gol Contra,14,Sao Paulo,Santos,10/08/2019,Fora
+6637,14,Sao Paulo,Alexandre Pato,72,,14,Sao Paulo,Santos,10/08/2019,Casa
+6637,14,Sao Paulo,Reinaldo Manoel da Silva,57,Penalty,14,Sao Paulo,Santos,10/08/2019,Casa
+6637,14,Santos,Eduardo Sasha,44,,14,Sao Paulo,Santos,10/08/2019,Fora
+6638,14,Flamengo,Giorgian De Arrascaeta,50,,14,Flamengo,Gremio,10/08/2019,Casa
+6638,14,Flamengo,Éverton Ribeiro,90+2,,14,Flamengo,Gremio,10/08/2019,Casa
+6638,14,Gremio,Rafael Galhardo,45+6,Penalty,14,Flamengo,Gremio,10/08/2019,Fora
+6638,14,Flamengo,Willian Arão,29,,14,Flamengo,Gremio,10/08/2019,Casa
+6639,14,Fluminense,Nenê,88,,14,Atletico-MG,Fluminense,10/08/2019,Fora
+6639,14,Atletico-MG,Juan Cazares,42,,14,Atletico-MG,Fluminense,10/08/2019,Casa
+6639,14,Atletico-MG,Ricardo Oliveira,51,,14,Atletico-MG,Fluminense,10/08/2019,Casa
+6641,14,Bahia,Gilberto Oliveira Souza Junior,85,Penalty,14,Palmeiras,Bahia,11/08/2019,Fora
+6641,14,Palmeiras,Eduardo Pereira Rodrigues,13,,14,Palmeiras,Bahia,11/08/2019,Casa
+6641,14,Palmeiras,Eduardo Pereira Rodrigues,58,,14,Palmeiras,Bahia,11/08/2019,Casa
+6641,14,Bahia,Gilberto Oliveira Souza Junior,53,Penalty,14,Palmeiras,Bahia,11/08/2019,Fora
+6642,14,Cruzeiro,Pedro Rocha Neves,62,,14,Avai,Cruzeiro,11/08/2019,Fora
+6642,14,Cruzeiro,Luiz Ricardo Alves,90+3,,14,Avai,Cruzeiro,11/08/2019,Fora
+6642,14,Avai,Brenner Marlos Varanda de Oliveira,74,Penalty,14,Avai,Cruzeiro,11/08/2019,Casa
+6642,14,Avai,Pedro Castro,23,,14,Avai,Cruzeiro,11/08/2019,Casa
+6643,14,Botafogo-RJ,Luiz Fernando Moraes dos Santos,31,,14,Botafogo-RJ,Athletico-PR,11/08/2019,Casa
+6643,14,Botafogo-RJ,Diego Souza,77,Penalty,14,Botafogo-RJ,Athletico-PR,11/08/2019,Casa
+6643,14,Athletico-PR,Thonny Anderson,16,,14,Botafogo-RJ,Athletico-PR,11/08/2019,Fora
+6644,14,Vasco,Marcos Antônio Candido Ferreira Júnior,22,,14,Goias,Vasco,11/08/2019,Fora
+6645,14,Fortaleza,Bruno Ferreira Melo,5,,14,CSA,Fortaleza,12/08/2019,Fora
+6645,14,Fortaleza,Edinho,37,,14,CSA,Fortaleza,12/08/2019,Fora
+6649,15,Athletico-PR,Marcelo Cirino da Silva,38,,15,Athletico-PR,Atletico-MG,17/08/2019,Casa
+6646,15,Corinthians,Everaldo,56,,15,Corinthians,Botafogo-RJ,17/08/2019,Casa
+6646,15,Corinthians,Mauro Boselli,42,,15,Corinthians,Botafogo-RJ,17/08/2019,Casa
+6647,15,Internacional,Wellington Alves da Silva,66,,15,Fortaleza,Internacional,17/08/2019,Fora
+6648,15,Flamengo,Gabriel Barbosa,51,,15,Vasco,Flamengo,17/08/2019,Fora
+6648,15,Flamengo,Gabriel Barbosa,62,,15,Vasco,Flamengo,17/08/2019,Fora
+6648,15,Vasco,Leandro Castán,58,,15,Vasco,Flamengo,17/08/2019,Casa
+6648,15,Flamengo,Giorgian De Arrascaeta,83,Penalty,15,Vasco,Flamengo,17/08/2019,Fora
+6648,15,Flamengo,Bruno Henrique,42,,15,Vasco,Flamengo,17/08/2019,Fora
+6650,15,Palmeiras,Eduardo Pereira Rodrigues,14,,15,Gremio,Palmeiras,17/08/2019,Fora
+6650,15,Gremio,David Braz,88,,15,Gremio,Palmeiras,17/08/2019,Casa
+6651,15,CSA,Jonatan Gómez,79,,15,Fluminense,CSA,18/08/2019,Fora
+6654,15,Cruzeiro,Fred,44,,15,Cruzeiro,Santos,18/08/2019,Casa
+6654,15,Cruzeiro,Thiago Neves,47,,15,Cruzeiro,Santos,18/08/2019,Casa
+6653,15,Goias,Fábio Sanches,34,,15,Bahia,Goias,18/08/2019,Fora
+6653,15,Bahia,Alejandro Guerra,71,,15,Bahia,Goias,18/08/2019,Casa
+6652,15,Sao Paulo,Daniel Alves,40,,15,Sao Paulo,Ceara,18/08/2019,Casa
+6655,15,Chapecoense,Everaldo Stum,73,Penalty,15,Chapecoense,Avai,18/08/2019,Casa
+6635,13,Sao Paulo,Vitor Bueno,40,,13,Athletico-PR,Sao Paulo,21/08/2019,Fora
+6656,16,Bahia,Gilberto Oliveira Souza Junior,20,,16,Atletico-MG,Bahia,24/08/2019,Fora
+6657,16,Gremio,Luan Guilherme de Jesus Vieira,4,,16,Gremio,Athletico-PR,24/08/2019,Casa
+6657,16,Gremio,Thaciano,52,,16,Gremio,Athletico-PR,24/08/2019,Casa
+6657,16,Athletico-PR,Rony,48,,16,Gremio,Athletico-PR,24/08/2019,Fora
+6658,16,Goias,Rafael Vaz,90+6,,16,Goias,Internacional,25/08/2019,Casa
+6658,16,Internacional,Guilherme Parede,12,,16,Goias,Internacional,25/08/2019,Fora
+6658,16,Goias,Michael Richard Delgado de Oliveira,71,,16,Goias,Internacional,25/08/2019,Casa
+6659,16,Vasco,Talles Magno,57,,16,Vasco,Sao Paulo,25/08/2019,Casa
+6659,16,Vasco,Fellipe Bastos,81,,16,Vasco,Sao Paulo,25/08/2019,Casa
+6660,16,Santos,Mário Sérgio Santos Costa,2,,16,Santos,Fortaleza,25/08/2019,Casa
+6660,16,Fortaleza,Tinga,90+5,,16,Santos,Fortaleza,25/08/2019,Fora
+6660,16,Fortaleza,Wellington Paulista,60,Penalty,16,Santos,Fortaleza,25/08/2019,Fora
+6660,16,Santos,Jorge Marco de Oliveira Moraes,10,,16,Santos,Fortaleza,25/08/2019,Casa
+6660,16,Santos,Eduardo Sasha,32,,16,Santos,Fortaleza,25/08/2019,Casa
+6660,16,Fortaleza,Wellington Paulista,68,,16,Santos,Fortaleza,25/08/2019,Fora
+6663,16,CSA,Apodi,90+4,,16,CSA,Cruzeiro,25/08/2019,Casa
+6663,16,Cruzeiro,Fred,11,,16,CSA,Cruzeiro,25/08/2019,Fora
+6661,16,Flamengo,Pablo Marí Villar,22,,16,Ceara,Flamengo,25/08/2019,Fora
+6661,16,Flamengo,Gabriel Barbosa,35,,16,Ceara,Flamengo,25/08/2019,Fora
+6661,16,Flamengo,Giorgian De Arrascaeta,90+7,,16,Ceara,Flamengo,25/08/2019,Fora
+6662,16,Avai,Richard Franco,60,,16,Avai,Corinthians,25/08/2019,Casa
+6662,16,Corinthians,Vágner Love,77,,16,Avai,Corinthians,25/08/2019,Fora
+6667,17,Bahia,Arthur Caike do Nascimento Cruz,86,,17,Bahia,CSA,31/08/2019,Casa
+6669,17,Athletico-PR,Nikão,45+4,,17,Athletico-PR,Ceara,31/08/2019,Casa
+6668,17,Santos,Gum,39,Gol Contra,17,Chapecoense,Santos,31/08/2019,Fora
+6670,17,Botafogo-RJ,Diego Souza,62,,17,Internacional,Botafogo-RJ,31/08/2019,Fora
+6670,17,Internacional,Rodrigo Lindoso,44,,17,Internacional,Botafogo-RJ,31/08/2019,Casa
+6670,17,Botafogo-RJ,Márcio Almeida de Oliveira,90+5,,17,Internacional,Botafogo-RJ,31/08/2019,Fora
+6670,17,Internacional,Edenílson Andrade dos Santos,53,,17,Internacional,Botafogo-RJ,31/08/2019,Casa
+6670,17,Internacional,Nicolás Federico López,83,,17,Internacional,Botafogo-RJ,31/08/2019,Casa
+6671,17,Flamengo,Gabriel Barbosa,61,Penalty,17,Flamengo,Palmeiras,01/09/2019,Casa
+6671,17,Flamengo,Gabriel Barbosa,11,,17,Flamengo,Palmeiras,01/09/2019,Casa
+6671,17,Flamengo,Giorgian De Arrascaeta,38,,17,Flamengo,Palmeiras,01/09/2019,Casa
+6672,17,Fortaleza,Juan Quintero Fletcher,25,,17,Fortaleza,Goias,01/09/2019,Casa
+6672,17,Fortaleza,Osvaldo Filho,59,,17,Fortaleza,Goias,01/09/2019,Casa
+6673,17,Cruzeiro,Maurício,80,,17,Cruzeiro,Vasco,01/09/2019,Casa
+6674,17,Corinthians,Gustavo,89,,17,Corinthians,Atletico-MG,01/09/2019,Casa
+6675,17,Avai,João Paulo,87,Penalty,17,Fluminense,Avai,02/09/2019,Fora
+6677,18,Ceara,Leandro Carvalho,90+2,,18,Corinthians,Ceara,07/09/2019,Fora
+6677,18,Corinthians,Vágner Love,37,,18,Corinthians,Ceara,07/09/2019,Casa
+6677,18,Corinthians,João Lucas Cardoso,23,Gol Contra,18,Corinthians,Ceara,07/09/2019,Casa
+6677,18,Ceara,Thiago Galhardo,59,,18,Corinthians,Ceara,07/09/2019,Fora
+6676,18,Bahia,Nino Paraíba,56,,18,Vasco,Bahia,07/09/2019,Fora
+6676,18,Bahia,Gilberto Oliveira Souza Junior,61,,18,Vasco,Bahia,07/09/2019,Fora
+6678,18,Flamengo,Gabriel Barbosa,11,,18,Avai,Flamengo,07/09/2019,Fora
+6678,18,Flamengo,Pablo Marí Villar,32,,18,Avai,Flamengo,07/09/2019,Fora
+6678,18,Flamengo,Reinier,53,,18,Avai,Flamengo,07/09/2019,Fora
+6679,18,Fluminense,João Pedro,86,,18,Fortaleza,Fluminense,07/09/2019,Fora
+6680,18,Internacional,Rafael Sóbis,77,Penalty,18,Internacional,Sao Paulo,07/09/2019,Casa
+6681,18,Goias,Rafael Vaz,20,,18,Goias,Palmeiras,07/09/2019,Casa
+6681,18,Palmeiras,Willian Gomes de Siqueira,81,,18,Goias,Palmeiras,07/09/2019,Fora
+6681,18,Palmeiras,Gustavo Scarpa,90+11,,18,Goias,Palmeiras,07/09/2019,Fora
+6682,18,Gremio,Diego Tardelli,18,,18,Cruzeiro,Gremio,08/09/2019,Fora
+6682,18,Cruzeiro,Fred,37,Penalty,18,Cruzeiro,Gremio,08/09/2019,Casa
+6682,18,Gremio,Alisson Euler de Freitas Castro,28,,18,Cruzeiro,Gremio,08/09/2019,Fora
+6682,18,Gremio,Everton Sousa Soares,64,,18,Cruzeiro,Gremio,08/09/2019,Fora
+6682,18,Gremio,Everton Sousa Soares,77,,18,Cruzeiro,Gremio,08/09/2019,Fora
+6683,18,Athletico-PR,Braian Romero,42,,18,Santos,Athletico-PR,08/09/2019,Fora
+6683,18,Santos,Carlos Andrés Sánchez,90+1,Penalty,18,Santos,Athletico-PR,08/09/2019,Casa
+6684,18,Botafogo-RJ,Alex Paulo Menezes Santana,66,,18,Botafogo-RJ,Atletico-MG,08/09/2019,Casa
+6684,18,Atletico-MG,Franco Di Santo,90+3,,18,Botafogo-RJ,Atletico-MG,08/09/2019,Fora
+6684,18,Botafogo-RJ,Diego Souza,45,Penalty,18,Botafogo-RJ,Atletico-MG,08/09/2019,Casa
+6685,18,CSA,Jonatan Gómez,90+4,,18,CSA,Chapecoense,08/09/2019,Casa
+6685,18,CSA,Alecsandro,40,,18,CSA,Chapecoense,08/09/2019,Casa
+6665,16,Palmeiras,Luiz Adriano,9,,16,Palmeiras,Fluminense,10/09/2019,Casa
+6665,16,Palmeiras,Luiz Adriano,58,,16,Palmeiras,Fluminense,10/09/2019,Casa
+6665,16,Palmeiras,Luiz Adriano,63,,16,Palmeiras,Fluminense,10/09/2019,Casa
+6686,19,Flamengo,Gabriel Barbosa,44,,19,Flamengo,Santos,14/09/2019,Casa
+6687,19,Vasco,Talles Magno,75,,19,Chapecoense,Vasco,14/09/2019,Fora
+6687,19,Chapecoense,Arthur Gomes,73,,19,Chapecoense,Vasco,14/09/2019,Casa
+6687,19,Vasco,Ribamar,45+2,,19,Chapecoense,Vasco,14/09/2019,Fora
+6688,19,Palmeiras,Bruno Henrique Corsini,45+1,,19,Palmeiras,Cruzeiro,14/09/2019,Casa
+6691,19,Internacional,William Pottker,29,,19,Atletico-MG,Internacional,15/09/2019,Fora
+6691,19,Internacional,William Pottker,64,,19,Atletico-MG,Internacional,15/09/2019,Fora
+6691,19,Internacional,Neilton Mestzk,53,,19,Atletico-MG,Internacional,15/09/2019,Fora
+6691,19,Atletico-MG,Bruninho,88,,19,Atletico-MG,Internacional,15/09/2019,Casa
+6690,19,Avai,Jonathan,14,,19,Athletico-PR,Avai,15/09/2019,Fora
+6693,19,Gremio,Jean Pyerre,29,,19,Gremio,Goias,15/09/2019,Casa
+6693,19,Gremio,Everton Sousa Soares,32,,19,Gremio,Goias,15/09/2019,Casa
+6693,19,Gremio,Alisson Euler de Freitas Castro,45,,19,Gremio,Goias,15/09/2019,Casa
+6694,19,Fluminense,Paulo Henrique Ganso,40,,19,Fluminense,Corinthians,15/09/2019,Casa
+6692,19,Bahia,Gilberto Oliveira Souza Junior,14,Penalty,19,Bahia,Fortaleza,15/09/2019,Casa
+6692,19,Fortaleza,Felipe Pires,10,,19,Bahia,Fortaleza,15/09/2019,Fora
+6695,19,Sao Paulo,Reinaldo Manoel da Silva,87,,19,Sao Paulo,CSA,15/09/2019,Casa
+6695,19,CSA,Héctor Bustamante,55,,19,Sao Paulo,CSA,15/09/2019,Fora
+6696,20,Sao Paulo,Pablo Felipe Teixeira,90+2,,20,Botafogo-RJ,Sao Paulo,21/09/2019,Fora
+6696,20,Botafogo-RJ,João Paulo,45+1,,20,Botafogo-RJ,Sao Paulo,21/09/2019,Casa
+6696,20,Sao Paulo,Hernanes,37,,20,Botafogo-RJ,Sao Paulo,21/09/2019,Fora
+6697,20,Flamengo,Gabriel Barbosa,7,,20,Cruzeiro,Flamengo,21/09/2019,Fora
+6697,20,Cruzeiro,Thiago Neves,38,Penalty,20,Cruzeiro,Flamengo,21/09/2019,Casa
+6697,20,Flamengo,Giorgian De Arrascaeta,67,,20,Cruzeiro,Flamengo,21/09/2019,Fora
+6698,20,Corinthians,Vágner Love,44,Penalty,20,Corinthians,Bahia,21/09/2019,Casa
+6698,20,Corinthians,Clayson Henrique da Silva Vieira,75,,20,Corinthians,Bahia,21/09/2019,Casa
+6698,20,Bahia,Gilberto Oliveira Souza Junior,64,Penalty,20,Corinthians,Bahia,21/09/2019,Fora
+6699,20,Gremio,Luan Guilherme de Jesus Vieira,55,,20,Santos,Gremio,21/09/2019,Fora
+6699,20,Gremio,Pepê,87,,20,Santos,Gremio,21/09/2019,Fora
+6699,20,Gremio,Everton Sousa Soares,90+3,,20,Santos,Gremio,21/09/2019,Fora
+6700,20,Internacional,Rodrigo Lindoso,86,,20,Internacional,Chapecoense,22/09/2019,Casa
+6703,20,Vasco,Danilo Barcelos,69,Penalty,20,Vasco,Athletico-PR,22/09/2019,Casa
+6703,20,Athletico-PR,Madson,49,,20,Vasco,Athletico-PR,22/09/2019,Fora
+6701,20,Palmeiras,Willian Gomes de Siqueira,48,,20,Fortaleza,Palmeiras,22/09/2019,Fora
+6702,20,CSA,Carlos Andrade Souza,64,,20,CSA,Ceara,22/09/2019,Casa
+6704,20,Goias,Rafael Vaz,66,,20,Goias,Fluminense,22/09/2019,Casa
+6704,20,Goias,Yago Rocha,89,,20,Goias,Fluminense,22/09/2019,Casa
+6704,20,Goias,Michael Richard Delgado de Oliveira,12,,20,Goias,Fluminense,22/09/2019,Casa
+6705,20,Avai,Jonathan,27,,20,Avai,Atletico-MG,23/09/2019,Casa
+6707,21,Bahia,José Élber Pimentel da Silva,63,,21,Bahia,Botafogo-RJ,25/09/2019,Casa
+6707,21,Bahia,Artur Victor Guimarães,24,,21,Bahia,Botafogo-RJ,25/09/2019,Casa
+6708,21,Flamengo,Giorgian De Arrascaeta,56,,21,Flamengo,Internacional,25/09/2019,Casa
+6708,21,Flamengo,Gabriel Barbosa,20,Penalty,21,Flamengo,Internacional,25/09/2019,Casa
+6708,21,Flamengo,Bruno Henrique,74,,21,Flamengo,Internacional,25/09/2019,Casa
+6708,21,Internacional,Edenílson Andrade dos Santos,49,,21,Flamengo,Internacional,25/09/2019,Fora
+6709,21,Goias,Leandro Barcia Montero,16,,21,Sao Paulo,Goias,25/09/2019,Fora
+6710,21,Palmeiras,Bruno Henrique Corsini,29,,21,Palmeiras,CSA,26/09/2019,Casa
+6710,21,CSA,Ricardo Bueno,88,,21,Palmeiras,CSA,26/09/2019,Fora
+6710,21,Palmeiras,Luiz Adriano,6,,21,Palmeiras,CSA,26/09/2019,Casa
+6710,21,Palmeiras,Bruno Henrique Corsini,83,,21,Palmeiras,CSA,26/09/2019,Casa
+6710,21,Palmeiras,Luiz Adriano,75,,21,Palmeiras,CSA,26/09/2019,Casa
+6710,21,Palmeiras,Gustavo Gómez,45+2,,21,Palmeiras,CSA,26/09/2019,Casa
+6710,21,Palmeiras,Willian Gomes de Siqueira,11,,21,Palmeiras,CSA,26/09/2019,Casa
+6710,21,CSA,Apodi,52,,21,Palmeiras,CSA,26/09/2019,Fora
+6711,21,Fluminense,Lucas Veríssimo,45+3,Gol Contra,21,Fluminense,Santos,26/09/2019,Casa
+6711,21,Santos,Yeferson Soteldo,40,,21,Fluminense,Santos,26/09/2019,Fora
+6712,21,Gremio,Luan Guilherme de Jesus Vieira,38,,21,Gremio,Avai,26/09/2019,Casa
+6712,21,Avai,Geirton Marques Aires,86,,21,Gremio,Avai,26/09/2019,Fora
+6712,21,Gremio,Luciano da Rocha Neves,45+1,,21,Gremio,Avai,26/09/2019,Casa
+6712,21,Gremio,Diego Tardelli,4,,21,Gremio,Avai,26/09/2019,Casa
+6712,21,Gremio,Bruno Cortês,64,,21,Gremio,Avai,26/09/2019,Casa
+6712,21,Gremio,David Braz,14,,21,Gremio,Avai,26/09/2019,Casa
+6712,21,Gremio,André Felipe Ribeiro de Souza,70,,21,Gremio,Avai,26/09/2019,Casa
+6713,21,Athletico-PR,Marcelo Cirino da Silva,90+4,,21,Athletico-PR,Fortaleza,26/09/2019,Casa
+6713,21,Athletico-PR,Marco Ruben,32,,21,Athletico-PR,Fortaleza,26/09/2019,Casa
+6713,21,Athletico-PR,Nikão,45+3,,21,Athletico-PR,Fortaleza,26/09/2019,Casa
+6713,21,Fortaleza,Wellington Paulista,11,Penalty,21,Athletico-PR,Fortaleza,26/09/2019,Fora
+6713,21,Athletico-PR,Léo Cittadini,61,,21,Athletico-PR,Fortaleza,26/09/2019,Casa
+6717,22,Corinthians,Ralf de Souza Teles,59,,22,Corinthians,Vasco,29/09/2019,Casa
+6721,22,Chapecoense,Arthur Gomes,31,,22,Athletico-PR,Chapecoense,29/09/2019,Fora
+6721,22,Athletico-PR,Nikão,57,,22,Athletico-PR,Chapecoense,29/09/2019,Casa
+6718,22,Santos,Carlos Andrés Sánchez,35,Penalty,22,Santos,CSA,29/09/2019,Casa
+6718,22,Santos,Eduardo Sasha,57,,22,Santos,CSA,29/09/2019,Casa
+6719,22,Internacional,Patrick,28,,22,Internacional,Palmeiras,29/09/2019,Casa
+6719,22,Palmeiras,Willian Gomes de Siqueira,58,,22,Internacional,Palmeiras,29/09/2019,Fora
+6720,22,Fluminense,Nenê,7,,22,Fluminense,Gremio,29/09/2019,Casa
+6720,22,Fluminense,Caio Henrique,50,,22,Fluminense,Gremio,29/09/2019,Casa
+6720,22,Gremio,Patrick,75,,22,Fluminense,Gremio,29/09/2019,Fora
+6722,22,Atletico-MG,Rómulo Otero,54,,22,Atletico-MG,Ceara,29/09/2019,Casa
+6722,22,Ceara,Thiago Galhardo,43,Penalty,22,Atletico-MG,Ceara,29/09/2019,Fora
+6722,22,Atletico-MG,Luan Madson Gedeão de Paiva,81,,22,Atletico-MG,Ceara,29/09/2019,Casa
+6723,22,Bahia,Nino Paraíba,27,,22,Avai,Bahia,30/09/2019,Fora
+6723,22,Bahia,José Élber Pimentel da Silva,25,,22,Avai,Bahia,30/09/2019,Fora
+6724,22,Fortaleza,Marcelo da Conceição Benevenuto Malaquias,61,Gol Contra,22,Fortaleza,Botafogo-RJ,30/09/2019,Casa
+6725,22,Goias,Alan Ruschel,62,,22,Goias,Cruzeiro,30/09/2019,Casa
+6714,21,Atletico-MG,Rómulo Otero,60,,21,Atletico-MG,Vasco,02/10/2019,Casa
+6714,21,Vasco,Marcos Antônio Candido Ferreira Júnior,90+4,,21,Atletico-MG,Vasco,02/10/2019,Fora
+6714,21,Vasco,Rossicley Pereira da Silva,67,Penalty,21,Atletico-MG,Vasco,02/10/2019,Fora
+6715,21,Corinthians,Danilo Avelar,63,,21,Chapecoense,Corinthians,02/10/2019,Fora
+6726,23,Santos,Tailson Pinto Gonçalves,50,,23,Vasco,Santos,05/10/2019,Fora
+6727,23,Sao Paulo,Igor Gomes,79,,23,Sao Paulo,Fortaleza,05/10/2019,Casa
+6727,23,Fortaleza,Wellington Paulista,39,Penalty,23,Sao Paulo,Fortaleza,05/10/2019,Fora
+6727,23,Sao Paulo,Pablo Felipe Teixeira,14,,23,Sao Paulo,Fortaleza,05/10/2019,Casa
+6729,23,Bahia,José Fernando Viana de Santana,76,,23,Bahia,Athletico-PR,05/10/2019,Casa
+6729,23,Athletico-PR,Marcelo Cirino da Silva,57,,23,Bahia,Athletico-PR,05/10/2019,Fora
+6729,23,Athletico-PR,Léo Cittadini,65,,23,Bahia,Athletico-PR,05/10/2019,Fora
+6730,23,Internacional,Gustavo Nonato Santana,10,,23,Cruzeiro,Internacional,05/10/2019,Fora
+6730,23,Cruzeiro,Fred,63,Penalty,23,Cruzeiro,Internacional,05/10/2019,Casa
+6731,23,Flamengo,Bruno Henrique,35,,23,Chapecoense,Flamengo,06/10/2019,Fora
+6733,23,Atletico-MG,Nathan Allan de Souza,45+3,,23,Palmeiras,Atletico-MG,06/10/2019,Fora
+6733,23,Palmeiras,Eduardo Pereira Rodrigues,83,,23,Palmeiras,Atletico-MG,06/10/2019,Casa
+6734,23,Fluminense,Yony González,35,,23,Botafogo-RJ,Fluminense,06/10/2019,Fora
+6732,23,Goias,Michael Richard Delgado de Oliveira,27,,23,Ceara,Goias,06/10/2019,Fora
+6735,23,CSA,Jonatan Gómez,71,Penalty,23,CSA,Avai,06/10/2019,Casa
+6735,23,Avai,Jonathan,48,,23,CSA,Avai,06/10/2019,Fora
+6735,23,CSA,Ricardo Bueno,14,,23,CSA,Avai,06/10/2019,Casa
+6735,23,CSA,Apodi,90+5,,23,CSA,Avai,06/10/2019,Casa
+6737,24,Botafogo-RJ,Gabriel Costa França,32,,24,Botafogo-RJ,Goias,09/10/2019,Casa
+6737,24,Goias,Marcelo da Conceição Benevenuto Malaquias,77,Gol Contra,24,Botafogo-RJ,Goias,09/10/2019,Fora
+6737,24,Botafogo-RJ,João Paulo,65,,24,Botafogo-RJ,Goias,09/10/2019,Casa
+6737,24,Botafogo-RJ,Leonardo Valencia,81,,24,Botafogo-RJ,Goias,09/10/2019,Casa
+6736,24,CSA,Jonatan Gómez,66,Penalty,24,CSA,Internacional,09/10/2019,Casa
+6738,24,Fortaleza,Wellington Paulista,81,,24,Fortaleza,Chapecoense,09/10/2019,Casa
+6738,24,Fortaleza,Wellington Paulista,50,Penalty,24,Fortaleza,Chapecoense,09/10/2019,Casa
+6740,24,Gremio,Pedro Geromel,35,,24,Gremio,Ceara,09/10/2019,Casa
+6740,24,Ceara,Fabinho,44,,24,Gremio,Ceara,09/10/2019,Fora
+6740,24,Gremio,Maicon,42,Penalty,24,Gremio,Ceara,09/10/2019,Casa
+6742,24,Santos,Mário Sérgio Santos Costa,17,,24,Santos,Palmeiras,09/10/2019,Casa
+6742,24,Santos,Gustavo Henrique Vernes,14,,24,Santos,Palmeiras,09/10/2019,Casa
+6743,24,Athletico-PR,Erick Luis Conrado Carvalho,32,,24,Corinthians,Athletico-PR,10/10/2019,Fora
+6743,24,Corinthians,Carlos Gilberto do Nascimento Silva,16,,24,Corinthians,Athletico-PR,10/10/2019,Casa
+6743,24,Corinthians,Mauro Boselli,45+3,,24,Corinthians,Athletico-PR,10/10/2019,Casa
+6743,24,Athletico-PR,Léo Cittadini,24,,24,Corinthians,Athletico-PR,10/10/2019,Fora
+6745,24,Atletico-MG,Nathan Allan de Souza,51,,24,Flamengo,Atletico-MG,10/10/2019,Fora
+6745,24,Flamengo,Willian Arão,37,,24,Flamengo,Atletico-MG,10/10/2019,Casa
+6745,24,Flamengo,Victor Vinícius Coelho Santos,61,,24,Flamengo,Atletico-MG,10/10/2019,Casa
+6745,24,Flamengo,Reinier,76,,24,Flamengo,Atletico-MG,10/10/2019,Casa
+6746,25,Goias,Michael Richard Delgado de Oliveira,44,,25,Goias,CSA,12/10/2019,Casa
+6747,25,Fluminense,Nenê,20,Penalty,25,Fluminense,Bahia,12/10/2019,Casa
+6747,25,Fluminense,Daniel Sampaio Simões,45,,25,Fluminense,Bahia,12/10/2019,Casa
+6748,25,Palmeiras,Thiago dos Santos,15,,25,Palmeiras,Botafogo-RJ,12/10/2019,Casa
+6750,25,Flamengo,Bruno Henrique,45,,25,Athletico-PR,Flamengo,13/10/2019,Fora
+6750,25,Flamengo,Bruno Henrique,90+1,,25,Athletico-PR,Flamengo,13/10/2019,Fora
+6752,25,Vasco,Yago Pikachu,68,Penalty,25,Vasco,Fortaleza,13/10/2019,Casa
+6751,25,Ceara,Bérgson Gustavo Silveira da Silva,90,,25,Ceara,Avai,13/10/2019,Casa
+6753,25,Sao Paulo,Reinaldo Manoel da Silva,66,Penalty,25,Sao Paulo,Corinthians,13/10/2019,Casa
+6754,25,Gremio,Maicon,44,Penalty,25,Atletico-MG,Gremio,13/10/2019,Fora
+6754,25,Gremio,Pepê,47,,25,Atletico-MG,Gremio,13/10/2019,Fora
+6754,25,Gremio,Alisson Euler de Freitas Castro,90+4,,25,Atletico-MG,Gremio,13/10/2019,Fora
+6754,25,Atletico-MG,Franco Di Santo,45+4,Penalty,25,Atletico-MG,Gremio,13/10/2019,Casa
+6754,25,Gremio,Rafael Galhardo,34,,25,Atletico-MG,Gremio,13/10/2019,Fora
+6755,25,Chapecoense,Camilo,90+5,,25,Chapecoense,Cruzeiro,13/10/2019,Casa
+6755,25,Cruzeiro,Dedé,4,,25,Chapecoense,Cruzeiro,13/10/2019,Fora
+6756,26,CSA,Alecsandro,34,,26,CSA,Atletico-MG,16/10/2019,Casa
+6756,26,CSA,Jonatan Gómez,89,Penalty,26,CSA,Atletico-MG,16/10/2019,Casa
+6756,26,Atletico-MG,Réver,69,,26,CSA,Atletico-MG,16/10/2019,Fora
+6756,26,Atletico-MG,Luan Madson Gedeão de Paiva,85,,26,CSA,Atletico-MG,16/10/2019,Fora
+6757,26,Bahia,Arthur Caike do Nascimento Cruz,90+1,Penalty,26,Gremio,Bahia,16/10/2019,Fora
+6758,26,Flamengo,Gabriel Barbosa,83,Penalty,26,Fortaleza,Flamengo,16/10/2019,Fora
+6758,26,Fortaleza,Bruno Ferreira Melo,61,Penalty,26,Fortaleza,Flamengo,16/10/2019,Casa
+6758,26,Flamengo,Reinier,90,,26,Fortaleza,Flamengo,16/10/2019,Fora
+6759,26,Cruzeiro,Thiago Neves,58,,26,Cruzeiro,Sao Paulo,16/10/2019,Casa
+6760,26,Palmeiras,Felipe Melo,90+9,,26,Palmeiras,Chapecoense,16/10/2019,Casa
+6762,26,Vasco,Bruno Gomes,8,,26,Vasco,Botafogo-RJ,16/10/2019,Casa
+6762,26,Vasco,Ribamar,18,,26,Vasco,Botafogo-RJ,16/10/2019,Casa
+6762,26,Botafogo-RJ,Marcelo da Conceição Benevenuto Malaquias,22,,26,Vasco,Botafogo-RJ,16/10/2019,Fora
+6761,26,Corinthians,Janderson,11,,26,Goias,Corinthians,16/10/2019,Fora
+6761,26,Corinthians,Gustavo,90+7,Penalty,26,Goias,Corinthians,16/10/2019,Fora
+6761,26,Goias,Michael Richard Delgado de Oliveira,37,,26,Goias,Corinthians,16/10/2019,Casa
+6761,26,Goias,Leandro Barcia Montero,71,,26,Goias,Corinthians,16/10/2019,Casa
+6765,26,Fluminense,Frazan,4,,26,Fluminense,Athletico-PR,17/10/2019,Casa
+6765,26,Athletico-PR,Madson,45+3,,26,Fluminense,Athletico-PR,17/10/2019,Fora
+6765,26,Athletico-PR,Madson,71,,26,Fluminense,Athletico-PR,17/10/2019,Fora
+6764,26,Ceara,Lima,18,,26,Santos,Ceara,17/10/2019,Fora
+6764,26,Santos,Eduardo Sasha,56,,26,Santos,Ceara,17/10/2019,Casa
+6764,26,Santos,Gustavo Henrique Vernes,84,,26,Santos,Ceara,17/10/2019,Casa
+6763,26,Internacional,Patrick,22,,26,Avai,Internacional,17/10/2019,Fora
+6763,26,Internacional,Martín Sarrafiore,85,,26,Avai,Internacional,17/10/2019,Fora
+6766,27,Fortaleza,Wellington Paulista,35,,27,Fortaleza,Gremio,19/10/2019,Casa
+6766,27,Fortaleza,Osvaldo Filho,41,,27,Fortaleza,Gremio,19/10/2019,Casa
+6766,27,Gremio,Paulo Miranda,10,,27,Fortaleza,Gremio,19/10/2019,Fora
+6767,27,Cruzeiro,Éderson,71,,27,Corinthians,Cruzeiro,19/10/2019,Fora
+6767,27,Cruzeiro,Fred,38,Penalty,27,Corinthians,Cruzeiro,19/10/2019,Fora
+6767,27,Corinthians,Fagner,34,,27,Corinthians,Cruzeiro,19/10/2019,Casa
+6768,27,Vasco,Marrony,53,,27,Internacional,Vasco,20/10/2019,Fora
+6769,27,Sao Paulo,Robert Arboleda,51,,27,Sao Paulo,Avai,20/10/2019,Casa
+6770,27,Atletico-MG,Leonardo Silva,22,,27,Atletico-MG,Santos,20/10/2019,Casa
+6770,27,Atletico-MG,Luan Madson Gedeão de Paiva,2,,27,Atletico-MG,Santos,20/10/2019,Casa
+6771,27,Flamengo,Bruno Henrique,4,,27,Flamengo,Fluminense,20/10/2019,Casa
+6771,27,Flamengo,Gerson Santos da Silva,66,,27,Flamengo,Fluminense,20/10/2019,Casa
+6772,27,Goias,Rafael Diniz Alves e Silva,49,,27,Chapecoense,Goias,20/10/2019,Fora
+6772,27,Goias,Rafael Vaz,85,,27,Chapecoense,Goias,20/10/2019,Fora
+6772,27,Chapecoense,Henrique Almeida,30,Penalty,27,Chapecoense,Goias,20/10/2019,Casa
+6772,27,Chapecoense,Everaldo Stum,23,,27,Chapecoense,Goias,20/10/2019,Casa
+6773,27,Athletico-PR,Marcelo Cirino da Silva,7,,27,Athletico-PR,Palmeiras,20/10/2019,Casa
+6773,27,Palmeiras,Deyverson,41,,27,Athletico-PR,Palmeiras,20/10/2019,Fora
+6774,27,Bahia,Artur Victor Guimarães,76,,27,Bahia,Ceara,21/10/2019,Casa
+6774,27,Ceara,Luiz Otávio,86,,27,Bahia,Ceara,21/10/2019,Fora
+6774,27,Ceara,Luiz Otávio,90+4,,27,Bahia,Ceara,21/10/2019,Fora
+6775,27,CSA,Ricardo Bueno,67,Penalty,27,Botafogo-RJ,CSA,21/10/2019,Fora
+6775,27,Botafogo-RJ,Luciano Castán,16,Gol Contra,27,Botafogo-RJ,CSA,21/10/2019,Casa
+6775,27,Botafogo-RJ,Igor Cássio,69,,27,Botafogo-RJ,CSA,21/10/2019,Casa
+6780,28,Cruzeiro,Luis Manuel Orejuela,80,,28,Cruzeiro,Fortaleza,26/10/2019,Casa
+6780,28,Fortaleza,Wellington Paulista,83,,28,Cruzeiro,Fortaleza,26/10/2019,Fora
+6777,28,Ceara,Bérgson Gustavo Silveira da Silva,81,,28,Ceara,Vasco,26/10/2019,Casa
+6777,28,Vasco,Rossicley Pereira da Silva,18,,28,Ceara,Vasco,26/10/2019,Fora
+6778,28,Internacional,Paolo Guerrero,50,,28,Bahia,Internacional,26/10/2019,Fora
+6778,28,Internacional,Paolo Guerrero,74,,28,Bahia,Internacional,26/10/2019,Fora
+6778,28,Bahia,Artur Victor Guimarães,71,,28,Bahia,Internacional,26/10/2019,Casa
+6778,28,Internacional,Guilherme Parede,53,,28,Bahia,Internacional,26/10/2019,Fora
+6778,28,Bahia,José Carlos Ferreira Júnior,86,,28,Bahia,Internacional,26/10/2019,Casa
+6779,28,Chapecoense,Everaldo Stum,27,,28,Fluminense,Chapecoense,26/10/2019,Fora
+6779,28,Fluminense,Marcos Paulo Costa do Nascimento,52,,28,Fluminense,Chapecoense,26/10/2019,Casa
+6781,28,Athletico-PR,Rony,54,,28,Athletico-PR,Goias,27/10/2019,Casa
+6781,28,Athletico-PR,Adriano Correia Claro,62,,28,Athletico-PR,Goias,27/10/2019,Casa
+6781,28,Athletico-PR,Marco Ruben,90+4,,28,Athletico-PR,Goias,27/10/2019,Casa
+6781,28,Athletico-PR,Léo Pereira,48,,28,Athletico-PR,Goias,27/10/2019,Casa
+6781,28,Goias,Rafael Moura,45+1,,28,Athletico-PR,Goias,27/10/2019,Fora
+6782,28,Gremio,Maicon,12,,28,Gremio,Botafogo-RJ,27/10/2019,Casa
+6782,28,Gremio,Thaciano,71,,28,Gremio,Botafogo-RJ,27/10/2019,Casa
+6782,28,Gremio,Everton Sousa Soares,80,,28,Gremio,Botafogo-RJ,27/10/2019,Casa
+6783,28,Sao Paulo,Vitor Bueno,57,,28,Sao Paulo,Atletico-MG,27/10/2019,Casa
+6783,28,Sao Paulo,Igor Gomes,51,,28,Sao Paulo,Atletico-MG,27/10/2019,Casa
+6784,28,Avai,João Paulo,79,Penalty,28,Avai,Palmeiras,27/10/2019,Casa
+6784,28,Palmeiras,Deyverson,54,,28,Avai,Palmeiras,27/10/2019,Fora
+6784,28,Palmeiras,Gustavo Scarpa,86,Penalty,28,Avai,Palmeiras,27/10/2019,Fora
+6785,28,Flamengo,Giorgian De Arrascaeta,9,,28,Flamengo,CSA,27/10/2019,Casa
+6786,29,Palmeiras,Felipe Melo,42,,29,Palmeiras,Sao Paulo,30/10/2019,Casa
+6786,29,Palmeiras,Gustavo Scarpa,57,,29,Palmeiras,Sao Paulo,30/10/2019,Casa
+6786,29,Palmeiras,Bruno Henrique Corsini,12,,29,Palmeiras,Sao Paulo,30/10/2019,Casa
+6788,29,Chapecoense,Henrique Almeida,6,,29,Atletico-MG,Chapecoense,30/10/2019,Fora
+6788,29,Chapecoense,Everaldo Stum,50,,29,Atletico-MG,Chapecoense,30/10/2019,Fora
+6787,29,Fortaleza,Romarinho,52,,29,Avai,Fortaleza,30/10/2019,Fora
+6787,29,Avai,Vinícius Vasconcelos Araújo,51,,29,Avai,Fortaleza,30/10/2019,Casa
+6787,29,Fortaleza,Wellington Paulista,89,Penalty,29,Avai,Fortaleza,30/10/2019,Fora
+6787,29,Fortaleza,Paulo Marcos de Jesus Ribeiro,23,,29,Avai,Fortaleza,30/10/2019,Fora
+6790,29,Gremio,Luciano da Rocha Neves,68,Penalty,29,Vasco,Gremio,30/10/2019,Fora
+6790,29,Vasco,Fredy Guarín,9,,29,Vasco,Gremio,30/10/2019,Casa
+6790,29,Gremio,Pepê,33,,29,Vasco,Gremio,30/10/2019,Fora
+6790,29,Gremio,Everton Sousa Soares,54,,29,Vasco,Gremio,30/10/2019,Fora
+6789,29,Ceara,Mateus Gonçalves Martins,90+2,,29,Ceara,Fluminense,30/10/2019,Casa
+6789,29,Ceara,Bérgson Gustavo Silveira da Silva,14,,29,Ceara,Fluminense,30/10/2019,Casa
+6791,29,CSA,Apodi,25,,29,CSA,Corinthians,30/10/2019,Casa
+6791,29,CSA,Ricardo Bueno,80,,29,CSA,Corinthians,30/10/2019,Casa
+6791,29,Corinthians,Pedrinho,45,,29,CSA,Corinthians,30/10/2019,Fora
+6792,29,Santos,Carlos Andrés Sánchez,54,Penalty,29,Santos,Bahia,31/10/2019,Casa
+6793,29,Goias,Michael Richard Delgado de Oliveira,90+4,,29,Goias,Flamengo,31/10/2019,Casa
+6793,29,Flamengo,Gabriel Barbosa,55,,29,Goias,Flamengo,31/10/2019,Fora
+6793,29,Flamengo,Rodrigo Caio,63,,29,Goias,Flamengo,31/10/2019,Fora
+6793,29,Goias,Rafael Moura,77,,29,Goias,Flamengo,31/10/2019,Casa
+6794,29,Athletico-PR,Rony,22,,29,Internacional,Athletico-PR,31/10/2019,Fora
+6794,29,Internacional,Rodrigo Lindoso,11,,29,Internacional,Athletico-PR,31/10/2019,Casa
+6795,29,Cruzeiro,Carlos de Menezes Júnior,26,,29,Botafogo-RJ,Cruzeiro,31/10/2019,Fora
+6795,29,Cruzeiro,Éderson,90+7,,29,Botafogo-RJ,Cruzeiro,31/10/2019,Fora
+6796,30,Fortaleza,Gabriel Dias de Oliveira,28,,30,Fortaleza,Atletico-MG,02/11/2019,Casa
+6796,30,Atletico-MG,Patric Cabral Lalau,24,,30,Fortaleza,Atletico-MG,02/11/2019,Fora
+6796,30,Atletico-MG,Fábio Santos,86,,30,Fortaleza,Atletico-MG,02/11/2019,Fora
+6796,30,Fortaleza,Gabriel Dias de Oliveira,15,,30,Fortaleza,Atletico-MG,02/11/2019,Casa
+6798,30,Palmeiras,José Rafael Vivian,17,,30,Palmeiras,Ceara,02/11/2019,Casa
+6799,30,Sao Paulo,Bruno Alves,7,,30,Chapecoense,Sao Paulo,02/11/2019,Fora
+6799,30,Sao Paulo,Vitor Bueno,24,,30,Chapecoense,Sao Paulo,02/11/2019,Fora
+6799,30,Sao Paulo,Antony Matheus dos Santos,80,,30,Chapecoense,Sao Paulo,02/11/2019,Fora
+6801,30,Athletico-PR,Marcelo Cirino da Silva,82,,30,Athletico-PR,CSA,03/11/2019,Casa
+6800,30,Flamengo,Bruno Henrique,46,,30,Flamengo,Corinthians,03/11/2019,Casa
+6800,30,Flamengo,Bruno Henrique,45+2,,30,Flamengo,Corinthians,03/11/2019,Casa
+6800,30,Flamengo,Victor Vinícius Coelho Santos,67,,30,Flamengo,Corinthians,03/11/2019,Casa
+6800,30,Flamengo,Bruno Henrique,45+1,,30,Flamengo,Corinthians,03/11/2019,Casa
+6800,30,Corinthians,Mateus Vital,52,,30,Flamengo,Corinthians,03/11/2019,Fora
+6802,30,Gremio,Pedro Geromel,34,,30,Gremio,Internacional,03/11/2019,Casa
+6802,30,Gremio,Rômulo Borges Monteiro,78,,30,Gremio,Internacional,03/11/2019,Casa
+6803,30,Santos,Mário Sérgio Santos Costa,13,,30,Santos,Botafogo-RJ,03/11/2019,Casa
+6803,30,Santos,Yeferson Soteldo,68,,30,Santos,Botafogo-RJ,03/11/2019,Casa
+6803,30,Santos,Yeferson Soteldo,69,,30,Santos,Botafogo-RJ,03/11/2019,Casa
+6803,30,Santos,Eduardo Sasha,3,,30,Santos,Botafogo-RJ,03/11/2019,Casa
+6803,30,Botafogo-RJ,Igor Cássio,34,,30,Santos,Botafogo-RJ,03/11/2019,Fora
+6804,30,Cruzeiro,Luiz Ricardo Alves,74,,30,Cruzeiro,Bahia,03/11/2019,Casa
+6804,30,Bahia,José Fernando Viana de Santana,66,Penalty,30,Cruzeiro,Bahia,03/11/2019,Fora
+6805,30,Goias,Thalles,90+4,,30,Goias,Avai,03/11/2019,Casa
+6805,30,Goias,Rafael Moura,90+1,Penalty,30,Goias,Avai,03/11/2019,Casa
+6806,31,Corinthians,Júnior Urso,48,,31,Corinthians,Fortaleza,06/11/2019,Casa
+6806,31,Fortaleza,Romarinho,34,,31,Corinthians,Fortaleza,06/11/2019,Fora
+6806,31,Corinthians,Mauro Boselli,37,,31,Corinthians,Fortaleza,06/11/2019,Casa
+6806,31,Fortaleza,Kieza,52,,31,Corinthians,Fortaleza,06/11/2019,Fora
+6806,31,Corinthians,Mauro Boselli,72,,31,Corinthians,Fortaleza,06/11/2019,Casa
+6807,31,Atletico-MG,Bruninho,90+4,,31,Atletico-MG,Goias,06/11/2019,Casa
+6807,31,Atletico-MG,José Marcos Costa Martins,54,,31,Atletico-MG,Goias,06/11/2019,Casa
+6808,31,Avai,João Paulo,35,,31,Avai,Santos,06/11/2019,Casa
+6808,31,Santos,Eduardo Sasha,9,,31,Avai,Santos,06/11/2019,Fora
+6808,31,Santos,Mário Sérgio Santos Costa,24,,31,Avai,Santos,06/11/2019,Fora
+6810,31,Vasco,Mayke,18,Gol Contra,31,Vasco,Palmeiras,06/11/2019,Casa
+6810,31,Palmeiras,Lucas Rafael Araújo Lima,12,,31,Vasco,Palmeiras,06/11/2019,Fora
+6810,31,Palmeiras,Luiz Adriano,77,,31,Vasco,Palmeiras,06/11/2019,Fora
+6811,31,Bahia,Marco Antonio Rosa Furtado Júnior,85,,31,Bahia,Chapecoense,06/11/2019,Casa
+6811,31,Chapecoense,Henrique Almeida,14,,31,Bahia,Chapecoense,06/11/2019,Fora
+6812,31,Ceara,Thiago Galhardo,42,,31,Ceara,Internacional,07/11/2019,Casa
+6812,31,Ceara,Mateus Gonçalves Martins,88,,31,Ceara,Internacional,07/11/2019,Casa
+6813,31,Fluminense,Rodrigo Junior Paula Silva,37,,31,Sao Paulo,Fluminense,07/11/2019,Fora
+6813,31,Fluminense,Marcos Paulo Costa do Nascimento,40,,31,Sao Paulo,Fluminense,07/11/2019,Fora
+6814,31,Flamengo,Lincoln Corrêa dos Santos,89,,31,Botafogo-RJ,Flamengo,07/11/2019,Fora
+6815,31,Gremio,Ronaldo Alves,90+3,Gol Contra,31,Gremio,CSA,07/11/2019,Casa
+6815,31,Gremio,Diego Tardelli,8,,31,Gremio,CSA,07/11/2019,Casa
+6815,31,CSA,Rafinha,90,,31,Gremio,CSA,07/11/2019,Fora
+6816,32,Santos,Yeferson Soteldo,73,,32,Goias,Santos,09/11/2019,Fora
+6816,32,Santos,Mário Sérgio Santos Costa,60,,32,Goias,Santos,09/11/2019,Fora
+6816,32,Santos,Yeferson Soteldo,25,,32,Goias,Santos,09/11/2019,Fora
+6817,32,Palmeiras,Bruno Henrique Corsini,90+4,,32,Palmeiras,Corinthians,09/11/2019,Casa
+6817,32,Corinthians,Michel Macedo Rocha Machado,90+2,,32,Palmeiras,Corinthians,09/11/2019,Fora
+6820,32,Athletico-PR,Marcelo Cirino da Silva,90,,32,Sao Paulo,Athletico-PR,10/11/2019,Fora
+6818,32,Internacional,William Pottker,35,,32,Internacional,Fluminense,10/11/2019,Casa
+6818,32,Internacional,William Pottker,39,,32,Internacional,Fluminense,10/11/2019,Casa
+6818,32,Fluminense,Wellington Nem,72,,32,Internacional,Fluminense,10/11/2019,Fora
+6821,32,Flamengo,Reinier,54,,32,Flamengo,Bahia,10/11/2019,Casa
+6821,32,Flamengo,Bruno Henrique,72,,32,Flamengo,Bahia,10/11/2019,Casa
+6821,32,Bahia,Willian Arão,39,Gol Contra,32,Flamengo,Bahia,10/11/2019,Fora
+6821,32,Flamengo,Gabriel Barbosa,87,,32,Flamengo,Bahia,10/11/2019,Casa
+6822,32,Gremio,Luciano da Rocha Neves,3,,32,Chapecoense,Gremio,10/11/2019,Fora
+6823,32,Fortaleza,Wellington Paulista,13,,32,Fortaleza,Ceara,10/11/2019,Casa
+6824,32,Vasco,Raul,26,,32,CSA,Vasco,10/11/2019,Fora
+6824,32,Vasco,Oswaldo José Henríquez Bocanegra,67,,32,CSA,Vasco,10/11/2019,Fora
+6824,32,Vasco,Carlos Andrade Souza,81,Gol Contra,32,CSA,Vasco,10/11/2019,Fora
+6825,32,Botafogo-RJ,Ricardo Thalheimer,13,Gol Contra,32,Botafogo-RJ,Avai,11/11/2019,Casa
+6825,32,Botafogo-RJ,Diego Souza,88,Penalty,32,Botafogo-RJ,Avai,11/11/2019,Casa
+6826,34,Flamengo,Bruno Henrique,65,,34,Flamengo,Vasco,13/11/2019,Casa
+6826,34,Vasco,Ribamar,90+3,,34,Flamengo,Vasco,13/11/2019,Fora
+6826,34,Flamengo,Danilo Barcelos,45+5,Gol Contra,34,Flamengo,Vasco,13/11/2019,Casa
+6826,34,Flamengo,Bruno Henrique,80,,34,Flamengo,Vasco,13/11/2019,Casa
+6826,34,Vasco,Yago Pikachu,38,Penalty,34,Flamengo,Vasco,13/11/2019,Fora
+6826,34,Vasco,Marrony,34,,34,Flamengo,Vasco,13/11/2019,Fora
+6826,34,Flamengo,Éverton Ribeiro,1,,34,Flamengo,Vasco,13/11/2019,Casa
+6826,34,Vasco,Marcos Antônio Candido Ferreira Júnior,52,,34,Flamengo,Vasco,13/11/2019,Fora
+6836,33,Sao Paulo,Daniel Alves,55,,33,Santos,Sao Paulo,16/11/2019,Fora
+6836,33,Santos,Carlos Andrés Sánchez,8,Penalty,33,Santos,Sao Paulo,16/11/2019,Casa
+6837,33,Atletico-MG,Franco Di Santo,89,,33,Fluminense,Atletico-MG,16/11/2019,Fora
+6837,33,Fluminense,Patric Cabral Lalau,16,Gol Contra,33,Fluminense,Atletico-MG,16/11/2019,Casa
+6841,33,Athletico-PR,Thonny Anderson,59,,33,Athletico-PR,Botafogo-RJ,17/11/2019,Casa
+6838,33,Flamengo,Gabriel Barbosa,37,Penalty,33,Gremio,Flamengo,17/11/2019,Fora
+6839,33,Bahia,Arthur Caike do Nascimento Cruz,45+2,,33,Bahia,Palmeiras,17/11/2019,Casa
+6839,33,Palmeiras,Miguel Borja,71,,33,Bahia,Palmeiras,17/11/2019,Fora
+6840,33,Chapecoense,Everaldo Stum,82,,33,Chapecoense,Ceara,17/11/2019,Casa
+6843,33,Fortaleza,Paulo Marcos de Jesus Ribeiro,54,,33,Fortaleza,CSA,17/11/2019,Casa
+6843,33,Fortaleza,Paulo Roberto Valoura Junior,34,,33,Fortaleza,CSA,17/11/2019,Casa
+6843,33,Fortaleza,Tinga,49,,33,Fortaleza,CSA,17/11/2019,Casa
+6844,33,Vasco,Fredy Guarín,35,,33,Vasco,Goias,18/11/2019,Casa
+6844,33,Goias,Oswaldo José Henríquez Bocanegra,90+7,Gol Contra,33,Vasco,Goias,18/11/2019,Fora
+6827,34,Santos,Diego Pituca,90,,34,Santos,Cruzeiro,23/11/2019,Casa
+6827,34,Santos,Eduardo Sasha,23,,34,Santos,Cruzeiro,23/11/2019,Casa
+6827,34,Cruzeiro,Luis Manuel Orejuela,14,,34,Santos,Cruzeiro,23/11/2019,Fora
+6827,34,Santos,Mário Sérgio Santos Costa,60,,34,Santos,Cruzeiro,23/11/2019,Casa
+6827,34,Santos,Yeferson Soteldo,65,,34,Santos,Cruzeiro,23/11/2019,Casa
+6829,34,Athletico-PR,Vitor Hugo Naum dos Santos,87,,34,Atletico-MG,Athletico-PR,24/11/2019,Fora
+6828,34,Gremio,Pepê,90+4,,34,Palmeiras,Gremio,24/11/2019,Fora
+6828,34,Palmeiras,Bruno Henrique Corsini,83,Penalty,34,Palmeiras,Gremio,24/11/2019,Casa
+6828,34,Gremio,Everton Sousa Soares,69,Penalty,34,Palmeiras,Gremio,24/11/2019,Fora
+6830,34,Goias,Rafael Moura,8,,34,Goias,Bahia,24/11/2019,Casa
+6830,34,Bahia,Gilberto Oliveira Souza Junior,59,,34,Goias,Bahia,24/11/2019,Fora
+6830,34,Goias,Michael Richard Delgado de Oliveira,12,,34,Goias,Bahia,24/11/2019,Casa
+6830,34,Bahia,João Pedro Maturano dos Santos,77,,34,Goias,Bahia,24/11/2019,Fora
+6830,34,Goias,Gilberto dos Santos Souza Júnior,71,,34,Goias,Bahia,24/11/2019,Casa
+6830,34,Bahia,José Fernando Viana de Santana,90+1,,34,Goias,Bahia,24/11/2019,Fora
+6830,34,Goias,Jonathan Marlone,79,,34,Goias,Bahia,24/11/2019,Casa
+6831,34,Botafogo-RJ,Diego Souza,19,,34,Botafogo-RJ,Corinthians,24/11/2019,Casa
+6833,34,Fortaleza,Osvaldo Filho,8,,34,Internacional,Fortaleza,24/11/2019,Fora
+6833,34,Fortaleza,Tinga,72,,34,Internacional,Fortaleza,24/11/2019,Fora
+6833,34,Internacional,Paolo Guerrero,43,,34,Internacional,Fortaleza,24/11/2019,Casa
+6833,34,Internacional,Paolo Guerrero,83,,34,Internacional,Fortaleza,24/11/2019,Casa
+6834,34,Chapecoense,Everaldo Stum,77,,34,Avai,Chapecoense,24/11/2019,Fora
+6832,34,Ceara,Felipe de Oliveira Silva,90+6,,34,Ceara,Sao Paulo,24/11/2019,Casa
+6832,34,Sao Paulo,Vitor Bueno,45+1,,34,Ceara,Sao Paulo,24/11/2019,Fora
+6835,34,Fluminense,Yony González,50,,34,CSA,Fluminense,25/11/2019,Fora
+6846,35,Goias,Michael Richard Delgado de Oliveira,72,,35,Internacional,Goias,27/11/2019,Fora
+6846,35,Internacional,Paolo Guerrero,78,,35,Internacional,Goias,27/11/2019,Casa
+6846,35,Goias,Rafael Moura,14,,35,Internacional,Goias,27/11/2019,Fora
+6847,35,Botafogo-RJ,Rhuan,53,,35,Chapecoense,Botafogo-RJ,27/11/2019,Fora
+6849,35,Athletico-PR,Márcio Azevedo,33,,35,Athletico-PR,Gremio,27/11/2019,Casa
+6849,35,Athletico-PR,Nikão,64,Penalty,35,Athletico-PR,Gremio,27/11/2019,Casa
+6848,35,Bahia,José Élber Pimentel da Silva,64,,35,Bahia,Atletico-MG,27/11/2019,Casa
+6848,35,Atletico-MG,Juan Cazares,54,,35,Bahia,Atletico-MG,27/11/2019,Fora
+6851,35,Corinthians,Mauro Boselli,87,,35,Corinthians,Avai,27/11/2019,Casa
+6851,35,Corinthians,Gustavo,22,,35,Corinthians,Avai,27/11/2019,Casa
+6851,35,Corinthians,Júnior Urso,52,,35,Corinthians,Avai,27/11/2019,Casa
+6850,35,Flamengo,Victor Vinícius Coelho Santos,90+1,,35,Flamengo,Ceara,27/11/2019,Casa
+6850,35,Flamengo,Bruno Henrique,65,,35,Flamengo,Ceara,27/11/2019,Casa
+6850,35,Ceara,Thiago Galhardo,27,,35,Flamengo,Ceara,27/11/2019,Fora
+6850,35,Flamengo,Bruno Henrique,74,,35,Flamengo,Ceara,27/11/2019,Casa
+6850,35,Flamengo,Bruno Henrique,85,,35,Flamengo,Ceara,27/11/2019,Casa
+6852,35,Fluminense,Marcos Paulo Costa do Nascimento,38,,35,Fluminense,Palmeiras,28/11/2019,Casa
+6853,35,Santos,Carlos Andrés Sánchez,69,,35,Fortaleza,Santos,28/11/2019,Fora
+6853,35,Fortaleza,Edinho,50,,35,Fortaleza,Santos,28/11/2019,Casa
+6853,35,Fortaleza,Osvaldo Filho,65,,35,Fortaleza,Santos,28/11/2019,Casa
+6854,35,Sao Paulo,Antony Matheus dos Santos,6,,35,Sao Paulo,Vasco,28/11/2019,Casa
+6855,35,CSA,Alan Henrique Costa,43,,35,Cruzeiro,CSA,28/11/2019,Fora
+6856,36,Internacional,Paolo Guerrero,84,,36,Botafogo-RJ,Internacional,30/11/2019,Fora
+6857,36,Ceara,Mateus Gonçalves Martins,88,,36,Ceara,Athletico-PR,30/11/2019,Casa
+6857,36,Athletico-PR,Madson,90+4,,36,Ceara,Athletico-PR,30/11/2019,Fora
+6859,36,Flamengo,Giorgian De Arrascaeta,4,,36,Palmeiras,Flamengo,01/12/2019,Fora
+6859,36,Flamengo,Gabriel Barbosa,45+1,,36,Palmeiras,Flamengo,01/12/2019,Fora
+6859,36,Flamengo,Gabriel Barbosa,46,,36,Palmeiras,Flamengo,01/12/2019,Fora
+6859,36,Palmeiras,Matheus Fernandes,84,,36,Palmeiras,Flamengo,01/12/2019,Casa
+6858,36,Fluminense,Marcos Paulo Costa do Nascimento,36,,36,Avai,Fluminense,01/12/2019,Fora
+6858,36,Avai,João Paulo,90+3,Penalty,36,Avai,Fluminense,01/12/2019,Casa
+6860,36,Fortaleza,Bruno Ferreira Melo,16,,36,Goias,Fortaleza,01/12/2019,Fora
+6860,36,Fortaleza,Osvaldo Filho,26,,36,Goias,Fortaleza,01/12/2019,Fora
+6860,36,Goias,Rafael Moura,43,,36,Goias,Fortaleza,01/12/2019,Casa
+6861,36,Bahia,Arthur Caike do Nascimento Cruz,86,,36,CSA,Bahia,01/12/2019,Fora
+6861,36,CSA,Nílton Ferreira Júnior,55,,36,CSA,Bahia,01/12/2019,Casa
+6861,36,Bahia,Gilberto Oliveira Souza Junior,32,,36,CSA,Bahia,01/12/2019,Fora
+6862,36,Atletico-MG,Fábio Santos,74,Penalty,36,Atletico-MG,Corinthians,01/12/2019,Casa
+6862,36,Atletico-MG,Juan Cazares,19,,36,Atletico-MG,Corinthians,01/12/2019,Casa
+6862,36,Corinthians,Janderson,20,,36,Atletico-MG,Corinthians,01/12/2019,Fora
+6863,36,Santos,Evandro Goebel,49,,36,Santos,Chapecoense,01/12/2019,Casa
+6863,36,Santos,Lucas Veríssimo,8,,36,Santos,Chapecoense,01/12/2019,Casa
+6864,36,Gremio,Luciano da Rocha Neves,62,,36,Gremio,Sao Paulo,01/12/2019,Casa
+6864,36,Gremio,Luciano da Rocha Neves,56,Penalty,36,Gremio,Sao Paulo,01/12/2019,Casa
+6864,36,Gremio,Alisson Euler de Freitas Castro,58,,36,Gremio,Sao Paulo,01/12/2019,Casa
+6865,36,Vasco,Fredy Guarín,10,,36,Vasco,Cruzeiro,02/12/2019,Casa
+6866,37,Athletico-PR,Marco Ruben,47,,37,Athletico-PR,Santos,04/12/2019,Casa
+6868,37,Atletico-MG,Jair Rodrigues Júnior,41,,37,Atletico-MG,Botafogo-RJ,04/12/2019,Casa
+6868,37,Atletico-MG,Luan Madson Gedeão de Paiva,68,,37,Atletico-MG,Botafogo-RJ,04/12/2019,Casa
+6867,37,Corinthians,Gustavo,81,,37,Ceara,Corinthians,04/12/2019,Fora
+6869,37,Chapecoense,Gustavo Campanharo,2,,37,Chapecoense,CSA,04/12/2019,Casa
+6869,37,Chapecoense,Arthur Gomes,59,,37,Chapecoense,CSA,04/12/2019,Casa
+6869,37,Chapecoense,Maurício Ramos,79,,37,Chapecoense,CSA,04/12/2019,Casa
+6871,37,Sao Paulo,Vitor Bueno,49,,37,Sao Paulo,Internacional,04/12/2019,Casa
+6871,37,Internacional,Guilherme Parede,70,,37,Sao Paulo,Internacional,04/12/2019,Fora
+6871,37,Sao Paulo,Antony Matheus dos Santos,16,,37,Sao Paulo,Internacional,04/12/2019,Casa
+6872,37,Gremio,Aldemir Ferreira,67,,37,Gremio,Cruzeiro,05/12/2019,Casa
+6872,37,Gremio,Pepê,85,Penalty,37,Gremio,Cruzeiro,05/12/2019,Casa
+6873,37,Palmeiras,Eduardo Pereira Rodrigues,34,,37,Palmeiras,Goias,05/12/2019,Casa
+6873,37,Palmeiras,Eduardo Pereira Rodrigues,82,,37,Palmeiras,Goias,05/12/2019,Casa
+6873,37,Palmeiras,Gabriel Veron,70,,37,Palmeiras,Goias,05/12/2019,Casa
+6873,37,Palmeiras,José Rafael Vivian,22,,37,Palmeiras,Goias,05/12/2019,Casa
+6873,37,Palmeiras,Gabriel Veron,90,,37,Palmeiras,Goias,05/12/2019,Casa
+6873,37,Goias,Rafael Moura,27,Penalty,37,Palmeiras,Goias,05/12/2019,Fora
+6874,37,Vasco,Marrony,85,,37,Bahia,Vasco,05/12/2019,Fora
+6874,37,Bahia,Gilberto Oliveira Souza Junior,45,Penalty,37,Bahia,Vasco,05/12/2019,Casa
+6875,37,Flamengo,Lincoln Corrêa dos Santos,57,,37,Flamengo,Avai,05/12/2019,Casa
+6875,37,Flamengo,Giorgian De Arrascaeta,11,,37,Flamengo,Avai,05/12/2019,Casa
+6875,37,Flamengo,Reinier,84,,37,Flamengo,Avai,05/12/2019,Casa
+6875,37,Flamengo,Diego Ribas,37,,37,Flamengo,Avai,05/12/2019,Casa
+6875,37,Flamengo,Reinier,89,,37,Flamengo,Avai,05/12/2019,Casa
+6875,37,Flamengo,Gabriel Barbosa,39,,37,Flamengo,Avai,05/12/2019,Casa
+6875,37,Avai,Lourenço,22,,37,Flamengo,Avai,05/12/2019,Fora
+6876,38,Corinthians,Gustavo,63,,38,Corinthians,Fluminense,08/12/2019,Casa
+6876,38,Fluminense,Francisco Evanilson de Lima Barbosa,8,,38,Corinthians,Fluminense,08/12/2019,Fora
+6876,38,Fluminense,Francisco Evanilson de Lima Barbosa,28,,38,Corinthians,Fluminense,08/12/2019,Fora
+6878,38,Ceara,Thiago Galhardo,66,Penalty,38,Botafogo-RJ,Ceara,08/12/2019,Fora
+6878,38,Botafogo-RJ,Marcos Vinícius de Jesus Araújo,39,,38,Botafogo-RJ,Ceara,08/12/2019,Casa
+6880,38,Internacional,Víctor Cuesta,90+8,,38,Internacional,Atletico-MG,08/12/2019,Casa
+6880,38,Atletico-MG,Rómulo Otero,6,,38,Internacional,Atletico-MG,08/12/2019,Fora
+6880,38,Internacional,Paolo Guerrero,82,,38,Internacional,Atletico-MG,08/12/2019,Casa
+6879,38,CSA,Jarro Pedroso,44,,38,CSA,Sao Paulo,08/12/2019,Casa
+6879,38,Sao Paulo,Jonas Toró,11,,38,CSA,Sao Paulo,08/12/2019,Fora
+6879,38,Sao Paulo,Igor Vinícius,14,,38,CSA,Sao Paulo,08/12/2019,Fora
+6881,38,Palmeiras,José Rafael Vivian,58,,38,Cruzeiro,Palmeiras,08/12/2019,Fora
+6881,38,Palmeiras,Eduardo Pereira Rodrigues,84,,38,Cruzeiro,Palmeiras,08/12/2019,Fora
+6882,38,Goias,Rafael Moura,4,,38,Goias,Gremio,08/12/2019,Casa
+6882,38,Gremio,Isaque Elias,37,,38,Goias,Gremio,08/12/2019,Fora
+6882,38,Goias,Rafael Moura,45,,38,Goias,Gremio,08/12/2019,Casa
+6882,38,Goias,Yago Rocha,65,,38,Goias,Gremio,08/12/2019,Casa
+6882,38,Gremio,Patrick,23,,38,Goias,Gremio,08/12/2019,Fora
+6883,38,Chapecoense,Vinícius,90+3,,38,Vasco,Chapecoense,08/12/2019,Fora
+6883,38,Vasco,Yago Pikachu,84,Penalty,38,Vasco,Chapecoense,08/12/2019,Casa
+6885,38,Bahia,Artur Victor Guimarães,33,,38,Fortaleza,Bahia,08/12/2019,Fora
+6885,38,Fortaleza,Osvaldo Filho,13,,38,Fortaleza,Bahia,08/12/2019,Casa
+6885,38,Fortaleza,Tinga,78,,38,Fortaleza,Bahia,08/12/2019,Casa
+6877,38,Santos,Carlos Andrés Sánchez,23,,38,Santos,Flamengo,08/12/2019,Casa
+6877,38,Santos,Carlos Andrés Sánchez,85,,38,Santos,Flamengo,08/12/2019,Casa
+6877,38,Santos,Eduardo Sasha,63,,38,Santos,Flamengo,08/12/2019,Casa
+6877,38,Santos,Mário Sérgio Santos Costa,15,,38,Santos,Flamengo,08/12/2019,Casa
