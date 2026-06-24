@@ -5,7 +5,6 @@ from matplotlib.ticker import MaxNLocator
 import streamlit as st
 
 df = pd.read_csv('gols_brasileirao_2019.csv')
-
 st.set_page_config(page_title='Gols Brasileirão 2019', layout='wide')
 st.title('Análise de Gols - Brasileirão Série A 2019')
 
@@ -23,85 +22,140 @@ df['minuto'] = df['minuto'].astype(int)
 df['data'] = pd.to_datetime(df['data'], dayfirst=True)
 print('Nulos depois:', df.isnull().sum().sum())
 
-# Engenharia de features
+# Features
 bins   = [0, 15, 30, 45, 50, 60, 75, 90, 999]
-labels = ['1-15', '16-30', '31-45', '45+', '46-60', '61-75', '76-90', '90+']
+labels = ['1-15', '16-30', '31-45', '45+ (acresc)', '46-60', '61-75', '76-90', '90+ (acresc)']
 df['faixa_minuto'] = pd.cut(df['minuto'], bins=bins, labels=labels)
-df.loc[(df['minuto'] >= 90) & (df['acrescimo']), 'faixa_minuto'] = '90+'
-df.loc[(df['minuto'] == 45) & (df['acrescimo']), 'faixa_minuto'] = '45+'
-df['periodo'] = df['minuto'].apply(lambda x: '1 Tempo' if x <= 45 else '2 Tempo')
-df['gol_decisivo'] = df['minuto'] > 80
+df.loc[(df['minuto'] >= 90) & (df['acrescimo']), 'faixa_minuto'] = '90+ (acresc)'
+df.loc[(df['minuto'] == 45) & (df['acrescimo']), 'faixa_minuto'] = '45+ (acresc)'
 df['mes'] = df['data'].dt.month
-df['gol_contra'] = df['tipo_de_gol'] == 'Gol Contra'
 
-#sidebar
 st.sidebar.header('Filtros')
 
+# times
 times = sorted(df['clube'].unique())
+
 time_selecionado = st.sidebar.selectbox('Time', ['Todos'] + times)
 
+time_comparacao = st.sidebar.selectbox(
+    'Comparar com (opcional)',
+    ['Nenhum'] + [t for t in times if t != time_selecionado]
+)
+
+# marcador (só aplica se NÃO estiver comparando)
 marcadores = sorted(df['atleta'].unique())
 marcador_selecionado = st.sidebar.selectbox('Marcador', ['Todos'] + marcadores)
 
+# rodada
 rodada_min = int(df['rodata'].min())
 rodada_max = int(df['rodata'].max())
 rodada_range = st.sidebar.slider('Rodada', rodada_min, rodada_max, (rodada_min, rodada_max))
 
-# Aplicando filtros
-df_filtrado = df.copy()
-
-if time_selecionado != 'Todos':
-    df_filtrado = df_filtrado[df_filtrado['clube'] == time_selecionado]
-
-if marcador_selecionado != 'Todos':
-    df_filtrado = df_filtrado[df_filtrado['atleta'] == marcador_selecionado]
-
-df_filtrado = df_filtrado[
-    (df_filtrado['rodata'] >= rodada_range[0]) &
-    (df_filtrado['rodata'] <= rodada_range[1])
+# Base filtrada por rodada
+df_base = df[
+    (df['rodata'] >= rodada_range[0]) &
+    (df['rodata'] <= rodada_range[1])
 ]
 
-st.metric('Total de Gols', len(df_filtrado))
+# separação dos times
+if time_selecionado != 'Todos':
+    df_time1 = df_base[df_base['clube'] == time_selecionado]
+else:
+    df_time1 = df_base
 
-# Grafico 1 - Gols por faixa de minuto
+if time_comparacao != 'Nenhum':
+    df_time2 = df_base[df_base['clube'] == time_comparacao]
+else:
+    df_time2 = None
+
+# regra B: marcador só vale quando NÃO há comparação
+if df_time2 is None and marcador_selecionado != 'Todos':
+    df_time1 = df_time1[df_time1['atleta'] == marcador_selecionado]
+
+st.metric(
+    'Total de Gols',
+    len(df_time1) if df_time2 is None else len(df_time1) + len(df_time2)
+)
+
+# GRAFICO 1
 st.subheader('Gols por Faixa de Minuto')
 
-labels_graf = ['1-15', '16-30', '31-45', '45+', '46-60', '61-75', '76-90', '90+']
-gols_faixa = df_filtrado['faixa_minuto'].value_counts().reindex(labels_graf, fill_value=0)
+labels_graf = labels
+
+g1 = df_time1['faixa_minuto'].value_counts().reindex(labels_graf, fill_value=0)
 
 fig, ax = plt.subplots(figsize=(10, 4))
-bars = ax.bar(gols_faixa.index, gols_faixa.values, color='#C8102E')
-ax.bar_label(bars, color='#1A1A1A', fontweight='bold')
+ax.bar(g1.index, g1.values, color='#C8102E', label=time_selecionado)
+
+if df_time2 is not None:
+    g2 = df_time2['faixa_minuto'].value_counts().reindex(labels_graf, fill_value=0)
+    ax.bar(g2.index, g2.values, color='#1A1A1A', alpha=0.7, label=time_comparacao)
+
+ax.set_title('Distribuicao de Gols por Faixa de Minuto')
 ax.set_xlabel('Faixa de Minuto')
 ax.set_ylabel('Quantidade de Gols')
-ax.set_title('Distribuicao de Gols por Faixa de Minuto', color='#1A1A1A', fontweight='bold')
-ax.set_ylim(0, gols_faixa.values.max() * 1.15)
-ax.yaxis.set_major_locator(MaxNLocator(integer=True))
-ax.grid(axis='y', color='#DDDDDD')
+ax.legend()
 ax.set_facecolor('#FAFAFA')
+ax.grid(axis='y', color='#DDDDDD')
+ax.yaxis.set_major_locator(MaxNLocator(integer=True))
 st.pyplot(fig)
 
-# Grafico 2 - Gols por rodada
+st.caption("Mostra em quais períodos do jogo os gols acontecem com mais frequência, destacando início, meio e fim das partidas.")
+
+
+# GRAFICO 2
 st.subheader('Gols por Rodada')
 
-todas_rodadas = range(rodada_min, rodada_max + 1)
-gols_rodada = df_filtrado.groupby('rodata').size().reindex(todas_rodadas, fill_value=0)
+rodadas = range(rodada_min, rodada_max + 1)
+
+r1 = df_time1.groupby('rodata').size().reindex(rodadas, fill_value=0)
 
 fig, ax = plt.subplots(figsize=(10, 4))
-ax.plot(gols_rodada.index, gols_rodada.values, marker='o', color='#1A1A1A',
-        markerfacecolor='#C8102E', markeredgecolor='#C8102E', linewidth=2)
+
+ax.plot(
+    r1.index,
+    r1.values,
+    marker='o',
+    color='#1A1A1A',
+    markerfacecolor='#C8102E',
+    markeredgecolor='#C8102E',
+    linewidth=2,
+    label=time_selecionado
+)
+
+if df_time2 is not None:
+    r2 = df_time2.groupby('rodata').size().reindex(rodadas, fill_value=0)
+
+    ax.plot(
+        r2.index,
+        r2.values,
+        marker='o',
+        color='#C8102E',
+        markerfacecolor='#1A1A1A',
+        markeredgecolor='#1A1A1A',
+        linewidth=2,
+        alpha=0.8,
+        label=time_comparacao
+    )
+
 ax.set_xlabel('Rodada')
 ax.set_ylabel('Quantidade de Gols')
 ax.set_title('Evolucao de Gols por Rodada', color='#1A1A1A', fontweight='bold')
+
 ax.yaxis.set_major_locator(MaxNLocator(integer=True))
 ax.grid(True, color='#DDDDDD')
 ax.set_facecolor('#FAFAFA')
+
+ax.legend()
 st.pyplot(fig)
 
-# Grafico 3 - Tipo de gol
+st.caption("Mostra a evolução do desempenho ofensivo ao longo das rodadas do campeonato, permitindo identificar consistência ou oscilações.")
+
+
+# GRAFICO 3
 st.subheader('Tipo de Gol')
 
-tipo_contagem = df_filtrado['tipo_de_gol'].value_counts()
+tipo_contagem = df_time1['tipo_de_gol'].value_counts()
 
 def fmt_autopct(pct, valores):
     total = sum(valores)
@@ -109,48 +163,66 @@ def fmt_autopct(pct, valores):
     return f'{qtd}\n({pct:.1f}%)'
 
 fig, ax = plt.subplots(figsize=(6, 6))
-ax.pie(tipo_contagem.values, labels=tipo_contagem.index,
-       autopct=lambda pct: fmt_autopct(pct, tipo_contagem.values),
-       colors=['#C8102E', '#1A1A1A', '#BDBDBD'],
-       textprops={'color': 'white', 'fontweight': 'bold'})
-ax.set_title('Proporcao de Tipos de Gol', color='#1A1A1A', fontweight='bold')
+ax.pie(
+    tipo_contagem.values,
+    labels=tipo_contagem.index,
+    autopct=lambda pct: fmt_autopct(pct, tipo_contagem.values),
+    colors=['#C8102E', '#1A1A1A', '#BDBDBD'][:len(tipo_contagem)],
+    textprops={'color': 'white', 'fontweight': 'bold'}
+)
+
+ax.legend(tipo_contagem.index, loc='center left', bbox_to_anchor=(1, 0.5))
+ax.set_title('Proporcao de Tipos de Gol')
 st.pyplot(fig)
 
-# Grafico 4 - Casa vs fora
+st.caption("Apresenta a distribuição dos tipos de gols (normal, pênalti ou contra), mostrando padrões de finalização.")
+
+
+# GRAFICO 4
 st.subheader('Gols Casa e Fora')
 
-casa_fora = df_filtrado['casa_ou_fora'].value_counts().reindex(['Casa', 'Fora'], fill_value=0)
+c1 = df_time1['casa_ou_fora'].value_counts().reindex(['Casa','Fora'], fill_value=0)
 
 fig, ax = plt.subplots(figsize=(8, 4))
-bars = ax.bar(casa_fora.index, casa_fora.values, color=['#C8102E', '#1A1A1A'])
-ax.bar_label(bars, color='#1A1A1A', fontweight='bold')
-ax.set_xlabel('Local')
+ax.bar(['Casa','Fora'], c1.values, color='#C8102E', label=time_selecionado)
+
+if df_time2 is not None:
+    c2 = df_time2['casa_ou_fora'].value_counts().reindex(['Casa','Fora'], fill_value=0)
+    ax.bar(['Casa','Fora'], c2.values, color='#1A1A1A', alpha=0.7, label=time_comparacao)
+
+ax.set_title('Gols Casa e Fora')
 ax.set_ylabel('Quantidade de Gols')
-ax.set_title('Gols Marcados em Casa vs Fora', color='#1A1A1A', fontweight='bold')
-ax.set_ylim(0, casa_fora.values.max() * 1.15)
-ax.yaxis.set_major_locator(MaxNLocator(integer=True))
+ax.legend()
 ax.grid(axis='y', color='#DDDDDD')
 ax.set_facecolor('#FAFAFA')
 st.pyplot(fig)
 
-# Grafico 5 - Gols por mes
+st.caption("Compara o desempenho ofensivo dentro e fora de casa, ajudando a identificar vantagem de mando de campo.")
+
+
+# GRAFICO 5
 st.subheader('Gols por Mes')
 
-meses_nome = {4: 'Abr', 5: 'Mai', 6: 'Jun', 7: 'Jul', 8: 'Ago',
-              9: 'Set', 10: 'Out', 11: 'Nov', 12: 'Dez'}
+meses_nome = {4:'Abr',5:'Mai',6:'Jun',7:'Jul',8:'Ago',9:'Set',10:'Out',11:'Nov',12:'Dez'}
+meses = range(4, 13)
 
-todos_meses = range(4, 13)
-gols_mes = df_filtrado['mes'].value_counts().reindex(todos_meses, fill_value=0).sort_index()
-gols_mes.index = gols_mes.index.map(meses_nome)
+m1 = df_time1['mes'].value_counts().reindex(meses, fill_value=0).sort_index()
+m1.index = m1.index.map(meses_nome)
 
 fig, ax = plt.subplots(figsize=(10, 4))
-bars = ax.bar(gols_mes.index, gols_mes.values, color='#C8102E')
-ax.bar_label(bars, color='#1A1A1A', fontweight='bold')
+ax.bar(m1.index, m1.values, color='#C8102E', label=time_selecionado)
+
+if df_time2 is not None:
+    m2 = df_time2['mes'].value_counts().reindex(meses, fill_value=0).sort_index()
+    m2.index = m2.index.map(meses_nome)
+    ax.bar(m2.index, m2.values, color='#1A1A1A', alpha=0.7, label=time_comparacao)
+
+ax.set_title('Gols por Mes')
 ax.set_xlabel('Mes')
 ax.set_ylabel('Quantidade de Gols')
-ax.set_title('Gols Marcados por Mes do Campeonato', color='#1A1A1A', fontweight='bold')
-ax.set_ylim(0, gols_mes.values.max() * 1.15)
-ax.yaxis.set_major_locator(MaxNLocator(integer=True))
+ax.legend()
 ax.grid(axis='y', color='#DDDDDD')
 ax.set_facecolor('#FAFAFA')
 st.pyplot(fig)
+
+st.caption("Mostra a evolução mensal dos gols ao longo do campeonato, destacando fases de maior ou menor desempenho.")
